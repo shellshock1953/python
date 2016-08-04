@@ -66,8 +66,8 @@ def place_ship(x, y, ship_len, orientation, board):
         else:
             print "Wrong orientation"
     return board
-def place_ship_error_check(x, y, ship_len, orientation):
 
+def place_ship_error_check(x, y, ship_len, orientation):
     if int(x) + int(ship_len) > 5 or \
        int(y) + int(ship_len) > 5 :
         print "out of the board"
@@ -91,6 +91,7 @@ def manual_place_ship():
         board_show(board)
         i += 1
         print ""
+        print ""
 
 
 if __name__ == "__main__":
@@ -101,4 +102,3 @@ if __name__ == "__main__":
         alph_coordinate = get_coordinates()
         shoots(alph_coordinate,board)
         board_show(board)
-
