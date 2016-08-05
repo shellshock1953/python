@@ -4,7 +4,19 @@
     random it horizontally or vertically
     dont allow be closer then one sell between sheeps
     make user to set ships
-    make bot player
+    make bot player (more agresive)
+    
+    ask to randomize ship placement
+    make singleplayer game
+    show two boards
+    boards 10x10 -- make biger resolution, 1 sell is 4 ascii?
+    screen refresh, colorize
+    bot answers in zy***-style
+    vizual effects? (splash, logo, hit, fire...)
+    music? (lol)
+    
+    far future
+    board 20x20 -- ship movement - one turn, move or shot
 """
 
 def board_generator(size):
