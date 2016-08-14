@@ -54,14 +54,14 @@ def ship_placement_check(board, x, y, is_horisontal, ship_len):
         for diapazon in range(-1,2):
             for ship_sell in range(ship_len):
                 if is_horisontal == 1:
-                    print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
+                    print ("hor=%s x,y=%s len=%s dia=%s sell=%s") % (is_horisontal,coordinated_to_alpha(x,y),ship_len,diapazon,ship_sell)
                     if board[x + ship_sell + diapazon][y] == "=":
                         print("WRONG HOR")
                         return False
                     else:
                         print("ok in HOR")
                 elif is_horisontal == 0:
-                    print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
+                    print ("hor=%s x,y=%s len=%s dia=%s sell=%s") % (is_horisontal,coordinated_to_alpha(x,y),ship_len,diapazon,ship_sell)
                     if board[x][y + ship_sell + diapazon] == "=":
                         print("WRONG VER")
                         return False
@@ -107,25 +107,41 @@ def selector(board_orig,bot_board):
     import copy
     x = 4
     y = 4
-    board = copy.deepcopy(board_orig)
+    board = copy.deepcopy(bot_board)
     board[x-1][y-1] = "+"
     board[x-1][y+1] = "+"
     board[x+1][y-1] = "+"
     board[x+1][y+1] = "+"
     while True:
-        board = copy.deepcopy(board_orig)
+        board = copy.deepcopy(bot_board)
         arrow = raw_input()
-        print("orig\n",board_orig)
-        print("new\n",board)
         if arrow == "h": y = y - 1
         elif arrow == "j": x = x - 1
         elif arrow == "k": x = x + 1
         elif arrow == "l": y = y + 1
+        elif arrow == "e":
+            print coordinated_to_alpha(x,y)
+            return x,y
         board[x-1][y-1] = "+"
         board[x-1][y+1] = "+"
         board[x+1][y-1] = "+"
         board[x+1][y+1] = "+"
         show_boards(board,bot_board, 10)
+
+
+def coordinated_to_alpha(x,y):
+    alphabet = string.uppercase
+    alpha_x = alphabet[x]
+    alpha_y = y + 1
+    alpha_coordinates = str(alpha_x) + str(alpha_y)
+    return alpha_coordinates
+
+
+def coordinated_to_num(alpha_x, alpha_y):
+    alphabet = string.uppercase
+    x = str(alphabet).index(alpha_x)
+    y = int(alpha_y) - 1
+    return x,y
 
 # FINAL ACT. The Game.
 if __name__ == "__main__":
