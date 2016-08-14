@@ -95,6 +95,15 @@ def place_ship_error_check(x, y, ship_len, board):
     elif board[x][y] == "=":
         print "cant place ship above another one"
         has_errors = True
+    elif x < 9 and x != 0 and y < 9 and y != 0:
+        for i in range(-1,2):
+            print "COORD == ",x,y
+            if board[x+i][y] != "." or board[x][y+i] != ".":
+                print "to close to another ship"
+                has_errors = True
+                break
+            else:
+                has_errors = False
     else:
         has_errors = False
     return has_errors
@@ -116,7 +125,7 @@ def manual_place_ship():
         print ""
 
 def random_place_ship(board):
-    for i in range(1,6):
+    for i in range(1,8):
         has_errors = True
         while has_errors == True:
             x = random.randint(0,10)
