@@ -29,7 +29,7 @@ def show_head():
 def show_boards(player_board, bot_board, board_size):
     """ TODO: make tabulate if board size bigger than 10"""
     numbers = ' '.join(str(x) for x in range(1, board_size + 1))
-    print("     %s\t  %s") % (numbers, numbers)
+    print("     %s\t  %s") % (str(numbers), str(numbers))
     alphabet = string.uppercase
     alphabet = alphabet[:board_size]
     letter = 0
@@ -43,7 +43,7 @@ def show_boards(player_board, bot_board, board_size):
 
 
 def ship_placement_check(board, x, y, is_horisontal, ship_len):
-    print x,y
+    print(x,y)
     # cannot be out of the board
     if x + ship_len > 9 or y + ship_len > 9:
         print("Out of the board")
@@ -56,17 +56,17 @@ def ship_placement_check(board, x, y, is_horisontal, ship_len):
                 if is_horisontal == 1:
                     print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
                     if board[x + ship_sell + diapazon][y] == "=":
-                        print "WRONG HOR"
+                        print("WRONG HOR")
                         return False
                     else:
-                        print "ok in HOR"
+                        print("ok in HOR")
                 elif is_horisontal == 0:
                     print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
                     if board[x][y + ship_sell + diapazon] == "=":
-                        print "WRONG VER"
+                        print("WRONG VER")
                         return False
                     else:
-                        print "ok in VER"
+                        print("ok in VER")
                         continue
     else:
         print ("DONE hor=%s x=%s y=%s len=%s") % (is_horisontal,x,y,ship_len)
@@ -86,7 +86,7 @@ def ship_placement(board,ship_len):
             board[x + sell][y] = "="
         elif is_horisontal == 0:
             board[x][y + sell] = "="
-    print "Ship placed",x,y
+    print("Ship placed",x,y)
     return board,x,y,ship_len
 
 def ships(board):
@@ -101,8 +101,48 @@ def ships(board):
             board, ships[ship_type][ship][0], \
             ships[ship_type][ship][1], \
             ships[ship_type][ship][2] = ship_placement(board,ship_type)
-    print ships
+    print(ships)
 
+def selector(board_orig,bot_board):
+    import copy
+    x = 4
+    y = 4
+    board = copy.deepcopy(board_orig)
+    board[x-1][y-1] = "+"
+    board[x-1][y+1] = "+"
+    board[x+1][y-1] = "+"
+    board[x+1][y+1] = "+"
+    while True:
+        board = copy.deepcopy(board_orig)
+        arrow = raw_input()
+        print("orig\n",board_orig)
+        print("new\n",board)
+        if arrow == "h":
+            y = y - 1
+            board[x-1][y-1] = "+"
+            board[x-1][y+1] = "+"
+            board[x+1][y-1] = "+"
+            board[x+1][y+1] = "+"
+        elif arrow == "j":
+            x = x - 1
+            board[x-1][y-1] = "+"
+            board[x-1][y+1] = "+"
+            board[x+1][y-1] = "+"
+            board[x+1][y+1] = "+"
+        elif arrow == "k":
+            x = x + 1
+            board[x-1][y-1] = "+"
+            board[x-1][y+1] = "+"
+            board[x+1][y-1] = "+"
+            board[x+1][y+1] = "+"
+        elif arrow == "l":
+            y = y + 1
+            board[x-1][y-1] = "+"
+            board[x-1][y+1] = "+"
+            board[x+1][y-1] = "+"
+            board[x+1][y+1] = "+"
+        show_boards(board,bot_board, 10)
+    return None
 
 # FINAL ACT. The Game.
 if __name__ == "__main__":
@@ -111,4 +151,5 @@ if __name__ == "__main__":
     bot_board = generate_board(board_size)
     show_boards(player_board, bot_board, board_size)
     ships(player_board)
+    selector(player_board,bot_board)
     show_boards(player_board, bot_board, board_size)
