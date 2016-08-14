@@ -117,32 +117,15 @@ def selector(board_orig,bot_board):
         arrow = raw_input()
         print("orig\n",board_orig)
         print("new\n",board)
-        if arrow == "h":
-            y = y - 1
-            board[x-1][y-1] = "+"
-            board[x-1][y+1] = "+"
-            board[x+1][y-1] = "+"
-            board[x+1][y+1] = "+"
-        elif arrow == "j":
-            x = x - 1
-            board[x-1][y-1] = "+"
-            board[x-1][y+1] = "+"
-            board[x+1][y-1] = "+"
-            board[x+1][y+1] = "+"
-        elif arrow == "k":
-            x = x + 1
-            board[x-1][y-1] = "+"
-            board[x-1][y+1] = "+"
-            board[x+1][y-1] = "+"
-            board[x+1][y+1] = "+"
-        elif arrow == "l":
-            y = y + 1
-            board[x-1][y-1] = "+"
-            board[x-1][y+1] = "+"
-            board[x+1][y-1] = "+"
-            board[x+1][y+1] = "+"
+        if arrow == "h": y = y - 1
+        elif arrow == "j": x = x - 1
+        elif arrow == "k": x = x + 1
+        elif arrow == "l": y = y + 1
+        board[x-1][y-1] = "+"
+        board[x-1][y+1] = "+"
+        board[x+1][y-1] = "+"
+        board[x+1][y+1] = "+"
         show_boards(board,bot_board, 10)
-    return None
 
 # FINAL ACT. The Game.
 if __name__ == "__main__":
