@@ -5,7 +5,7 @@
     dont allow be closer then one sell between sheeps
     make user to set ships
     make bot player (more agresive)
-    
+
     ask to randomize ship placement
     make singleplayer game
     show two boards
@@ -14,11 +14,12 @@
     bot answers in zy***-style
     vizual effects? (splash, logo, hit, fire...)
     music? (lol)
-    
+
     far future
     board 20x20 -- ship movement - one turn, move or shot
 """
 import random
+import os
 
 def board_generator(size):
     board = []
@@ -32,8 +33,7 @@ def board_show(player_board,bot_board):
     i = 0
     for row in range(len(board[0])):
         player_row = " ".join(player_board[row])
-        bot_row = " ".join(bot_board[row])
-        # print abc[i]," ".join(player_board[row])
+        bot_row = " ".join(bot_board[row]).replace("=",".")
         print ("%s %s    %s %s") % (abc[i], player_row, abc[i], bot_row)
         i += 1
 
@@ -116,7 +116,7 @@ def manual_place_ship():
         print ""
 
 def random_place_ship(board):
-    for i in range(1,4):
+    for i in range(1,6):
         has_errors = True
         while has_errors == True:
             x = random.randint(0,10)
@@ -128,19 +128,56 @@ def random_place_ship(board):
         place_ship(x, y, ship_len, orientation, board)
         i += 1
 
-def bot():
+def bot(player_board,bot_hit):
     alph = "abcdefghij"
     num  = range(10)
-    bot_shot = alph[random.randint(0,10)] + str(num[random.randint(0,10)])
-    print bot_shot
+    # bot_shot = alph[random.randint(0,10)] + str(num[random.randint(0,10)])
+    ready_to_shot = False
+    while ready_to_shot == False:
+        if bot_hit != False:
+            x, y = coordinate_convertor(bot_hit)
+            print "THERE WAS HIT. trying to down ship!"
+            if x == 0:
+                alph_x =  alph[random.randint(x,x+1)]
+            elif x == 10:
+                alph_x =  alph[random.randint(x-1,x)]
+            else:
+                alph_x =  alph[random.randint(x-1,x+1)]
+            if y == 0:
+                alph_y = str(num[random.randint(y,y+1)])
+            elif y == 10:
+                alph_y = str(num[random.randint(y-1,y)])
+            else:
+                alph_y = str(num[random.randint(y-1,y+1)])
+        else:
+            alph_x =  alph[random.randint(0,9)]
+            alph_y = str(num[random.randint(0,9)])
+        bot_shot = alph_x + alph_y
+        x, y = coordinate_convertor(bot_shot)
+        if player_board[x][y] == '.':
+            bot_hit = False
+            ready_to_shot = True
+        if player_board[x][y] == '=':
+            bot_hit = bot_shot
+            print "saw the ship",bot_hit
+            ready_to_shot = True
+
     shoots(bot_shot,board)
+    return bot_hit
+
+
 
 def game_over(player_board, bot_board):
-    for row in range(len(board[0])):
-        if "=" not in player_board[row]:
-            print "YOU LOSE!"
-        if "=" not in bot_board[row]:
-            print "YOU WIN!"
+    win = ["=" in field for field in list(bot_board)]
+    lose = ["=" in field for field in list(player_board)]
+    if True not in win:
+        print "You WIN!"
+        gameover = True
+        return gameover
+    if True not in lose:
+        print "You LOSE!"
+        gameover = True
+        return gameover
 
 if __name__ == "__main__":
     board = board_generator(10)
@@ -148,10 +185,13 @@ if __name__ == "__main__":
     random_place_ship(board)
     random_place_ship(bot_board)
     board_show(board,bot_board)
+    bot_hit = 0
     while True:
-        bot()
+        bot_hit = bot(board,bot_hit)
         alph_coordinate = get_coordinates()
+        os.system('clear')
         shoots(alph_coordinate,bot_board)
         board_show(board,bot_board)
-        game_over(board, bot_board)
-
+        gameover = game_over(board, bot_board)
+        if gameover == True:
+            break
