@@ -1,0 +1,1639 @@
+Jul 11 11:05:01 u CRON[7490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:05:01 u CRON[7490]: pam_unix(cron:session): session closed for user root
+Jul 11 11:15:01 u CRON[11924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:15:01 u CRON[11924]: pam_unix(cron:session): session closed for user root
+Jul 11 11:17:01 u CRON[12807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:17:01 u CRON[12807]: pam_unix(cron:session): session closed for user root
+Jul 11 11:25:01 u CRON[16332]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:25:01 u CRON[16332]: pam_unix(cron:session): session closed for user root
+Jul 11 11:35:02 u CRON[20720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:35:02 u CRON[20720]: pam_unix(cron:session): session closed for user root
+Jul 11 11:45:01 u CRON[25125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 11:45:01 u CRON[25125]: pam_unix(cron:session): session closed for user root
+Jul 11 11:52:58 u systemd-logind[713]: Lid closed.
+Jul 11 11:52:58 u systemd-logind[713]: Suspending...
+Jul 11 13:37:59 u systemd-logind[713]: Lid opened.
+Jul 11 13:38:00 u systemd-logind[713]: Operation 'sleep' finished.
+Jul 11 13:38:39 u sshd[941]: Received SIGHUP; restarting.
+Jul 11 13:38:41 u sshd[941]: Server listening on 0.0.0.0 port 22.
+Jul 11 13:38:41 u sshd[941]: Server listening on :: port 22.
+Jul 11 13:38:41 u sshd[941]: Received SIGHUP; restarting.
+Jul 11 13:38:42 u sshd[941]: Server listening on 0.0.0.0 port 22.
+Jul 11 13:38:42 u sshd[941]: Server listening on :: port 22.
+Jul 11 13:45:01 u CRON[31989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 13:45:01 u CRON[31989]: pam_unix(cron:session): session closed for user root
+Jul 11 13:49:02 u systemd-logind[713]: Lid closed.
+Jul 11 13:49:02 u systemd-logind[713]: Suspending...
+Jul 11 13:54:11 u systemd-logind[713]: Operation 'sleep' finished.
+Jul 11 13:54:34 u systemd-logind[713]: Suspending...
+Jul 11 13:54:41 u systemd-logind[713]: Operation 'sleep' finished.
+Jul 11 13:55:04 u CRON[1881]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 13:55:04 u CRON[1881]: pam_unix(cron:session): session closed for user root
+Jul 11 13:55:06 u systemd-logind[713]: Suspending...
+Jul 11 16:31:44 u systemd-logind[713]: Lid opened.
+Jul 11 16:31:46 u systemd-logind[713]: Operation 'sleep' finished.
+Jul 11 16:32:36 u CRON[2358]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 16:32:36 u CRON[2358]: pam_unix(cron:session): session closed for user root
+Jul 11 16:35:01 u CRON[3397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 16:35:01 u CRON[3397]: pam_unix(cron:session): session closed for user root
+Jul 11 16:45:01 u CRON[7581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 16:45:01 u CRON[7581]: pam_unix(cron:session): session closed for user root
+Jul 11 16:55:01 u CRON[11889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 16:55:01 u CRON[11889]: pam_unix(cron:session): session closed for user root
+Jul 11 17:00:01 u CRON[13968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:00:01 u CRON[13968]: pam_unix(cron:session): session closed for user root
+Jul 11 17:05:01 u CRON[16049]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:05:01 u CRON[16049]: pam_unix(cron:session): session closed for user root
+Jul 11 17:15:01 u CRON[20223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:15:01 u CRON[20223]: pam_unix(cron:session): session closed for user root
+Jul 11 17:17:01 u CRON[21058]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:17:01 u CRON[21058]: pam_unix(cron:session): session closed for user root
+Jul 11 17:25:01 u CRON[24380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:25:01 u CRON[24380]: pam_unix(cron:session): session closed for user root
+Jul 11 17:35:01 u CRON[28548]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:35:01 u CRON[28548]: pam_unix(cron:session): session closed for user root
+Jul 11 17:45:01 u CRON[32736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:45:01 u CRON[32736]: pam_unix(cron:session): session closed for user root
+Jul 11 17:55:01 u CRON[4756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 17:55:01 u CRON[4756]: pam_unix(cron:session): session closed for user root
+Jul 11 18:00:02 u CRON[7029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:00:02 u CRON[7029]: pam_unix(cron:session): session closed for user root
+Jul 11 18:05:01 u CRON[9280]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:05:01 u CRON[9280]: pam_unix(cron:session): session closed for user root
+Jul 11 18:15:01 u CRON[13817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:15:01 u CRON[13817]: pam_unix(cron:session): session closed for user root
+Jul 11 18:17:01 u CRON[14712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:17:01 u CRON[14712]: pam_unix(cron:session): session closed for user root
+Jul 11 18:25:01 u CRON[18262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:25:01 u CRON[18262]: pam_unix(cron:session): session closed for user root
+Jul 11 18:35:01 u CRON[22711]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:35:01 u CRON[22711]: pam_unix(cron:session): session closed for user root
+Jul 11 18:45:01 u CRON[27154]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:45:01 u CRON[27154]: pam_unix(cron:session): session closed for user root
+Jul 11 18:55:01 u CRON[31576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 18:55:01 u CRON[31576]: pam_unix(cron:session): session closed for user root
+Jul 11 19:00:01 u CRON[1461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:00:01 u CRON[1461]: pam_unix(cron:session): session closed for user root
+Jul 11 19:05:01 u CRON[3726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:05:01 u CRON[3726]: pam_unix(cron:session): session closed for user root
+Jul 11 19:15:01 u CRON[8199]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:15:01 u CRON[8199]: pam_unix(cron:session): session closed for user root
+Jul 11 19:17:01 u CRON[9084]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:17:01 u CRON[9084]: pam_unix(cron:session): session closed for user root
+Jul 11 19:25:01 u CRON[12615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:25:01 u CRON[12615]: pam_unix(cron:session): session closed for user root
+Jul 11 19:35:01 u CRON[17029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:35:01 u CRON[17029]: pam_unix(cron:session): session closed for user root
+Jul 11 19:45:01 u CRON[21527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:45:01 u CRON[21527]: pam_unix(cron:session): session closed for user root
+Jul 11 19:55:01 u CRON[25950]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 19:55:01 u CRON[25950]: pam_unix(cron:session): session closed for user root
+Jul 11 20:00:01 u CRON[28157]: pam_unix(cron:session): session opened for user shellshock by (uid=0)
+Jul 11 20:00:01 u CRON[28156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 20:00:02 u CRON[28156]: pam_unix(cron:session): session closed for user root
+Jul 11 20:00:02 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/killall rtcwake
+Jul 11 20:00:02 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 11 20:00:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 11 20:00:02 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/rtcwake -l -m no -t 1468292400
+Jul 11 20:00:02 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 11 20:00:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 11 20:00:04 u CRON[28157]: pam_unix(cron:session): session closed for user shellshock
+Jul 11 20:05:01 u CRON[30418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 20:05:01 u CRON[30418]: pam_unix(cron:session): session closed for user root
+Jul 11 20:15:01 u CRON[2506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 20:15:01 u CRON[2506]: pam_unix(cron:session): session closed for user root
+Jul 11 20:17:01 u CRON[3391]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 20:17:01 u CRON[3391]: pam_unix(cron:session): session closed for user root
+Jul 11 20:22:59 u systemd-logind[713]: Lid closed.
+Jul 11 20:22:59 u systemd-logind[713]: Suspending...
+Jul 11 22:36:51 u systemd-logind[713]: Lid opened.
+Jul 11 22:36:53 u CRON[6120]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 22:36:54 u CRON[6120]: pam_unix(cron:session): session closed for user root
+Jul 11 22:36:54 u CRON[6159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 22:36:55 u CRON[6159]: pam_unix(cron:session): session closed for user root
+Jul 11 22:36:55 u CRON[6168]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 22:36:55 u CRON[6168]: pam_unix(cron:session): session closed for user root
+Jul 11 22:36:55 u systemd-logind[713]: Operation 'sleep' finished.
+Jul 11 22:45:01 u CRON[10175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 11 22:45:01 u CRON[10175]: pam_unix(cron:session): session closed for user root
+                                                                                                                                                                                                                                                                                                                     Jul 12 11:05:49 u systemd-logind[771]: New seat seat0.
+Jul 12 11:05:49 u systemd-logind[771]: Watching system buttons on /dev/input/event3 (Power Button)
+Jul 12 11:05:49 u systemd-logind[771]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jul 12 11:05:49 u systemd-logind[771]: Watching system buttons on /dev/input/event2 (Power Button)
+Jul 12 11:05:49 u systemd-logind[771]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Jul 12 11:05:49 u systemd-logind[771]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jul 12 11:05:56 u sshd[933]: Server listening on 0.0.0.0 port 22.
+Jul 12 11:05:56 u sshd[933]: Server listening on :: port 22.
+Jul 12 11:06:03 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 11:06:03 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 11:06:03 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 11:06:03 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 11:06:03 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 12 11:06:03 u systemd-logind[771]: New session c1 of user lightdm.
+Jul 12 11:06:03 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 12 11:06:08 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 11:06:08 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 11:06:08 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 11:06:08 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 11:06:08 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 12 11:06:14 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 12 11:06:14 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 12 11:06:14 u systemd: pam_unix(systemd-user:session): session opened for user shellshock by (uid=0)
+Jul 12 11:06:14 u systemd-logind[771]: New session c2 of user shellshock.
+Jul 12 11:08:03 u systemd-logind[771]: Removed session c1.
+Jul 12 11:08:04 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 12 11:09:56 u systemd-logind[771]: Lid closed.
+Jul 12 11:09:56 u systemd-logind[771]: Suspending...
+Jul 12 21:27:02 u systemd-logind[771]: Lid opened.
+Jul 12 21:27:05 u systemd-logind[771]: Operation 'sleep' finished.
+Jul 12 21:32:06 u sshd[933]: Received SIGHUP; restarting.
+Jul 12 21:32:07 u sshd[933]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:32:07 u sshd[933]: Server listening on :: port 22.
+Jul 12 21:32:19 u sshd[933]: Received SIGHUP; restarting.
+Jul 12 21:32:20 u sshd[933]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:32:20 u sshd[933]: Server listening on :: port 22.
+Jul 12 21:32:21 u sshd[933]: Received SIGHUP; restarting.
+Jul 12 21:32:22 u sshd[933]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:32:22 u sshd[933]: Server listening on :: port 22.
+Jul 12 21:34:39 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/setxkbmap -option ctrl:nocaps
+Jul 12 21:34:39 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 21:34:40 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 21:35:01 u CRON[7346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 21:35:01 u CRON[7346]: pam_unix(cron:session): session closed for user root
+Jul 12 21:45:01 u CRON[11881]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 21:45:01 u CRON[11881]: pam_unix(cron:session): session closed for user root
+Jul 12 21:48:01 u CRON[13246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 21:48:01 u CRON[13246]: pam_unix(cron:session): session closed for user root
+Jul 12 21:55:01 u CRON[16734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 21:55:01 u CRON[16734]: pam_unix(cron:session): session closed for user root
+Jul 12 21:56:41 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service alsa-utils restart
+Jul 12 21:56:41 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 21:56:41 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 21:57:14 u systemd-logind[771]: System is rebooting.
+Jul 12 21:57:14 u sshd[933]: Received signal 15; terminating.
+Jul 12 21:58:17 u systemd-logind[796]: New seat seat0.
+Jul 12 21:58:17 u systemd-logind[796]: Watching system buttons on /dev/input/event3 (Power Button)
+Jul 12 21:58:17 u systemd-logind[796]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jul 12 21:58:17 u systemd-logind[796]: Watching system buttons on /dev/input/event2 (Power Button)
+Jul 12 21:58:17 u systemd-logind[796]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Jul 12 21:58:17 u systemd-logind[796]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jul 12 21:58:25 u sshd[931]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:58:25 u sshd[931]: Server listening on :: port 22.
+Jul 12 21:58:39 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 21:58:39 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 21:58:39 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 21:58:39 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 21:58:39 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 12 21:58:39 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 12 21:58:39 u systemd-logind[796]: New session c1 of user lightdm.
+Jul 12 21:58:44 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 21:58:44 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 21:58:44 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 21:58:44 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 21:58:44 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 12 21:58:50 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 12 21:58:50 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 12 21:58:50 u systemd: pam_unix(systemd-user:session): session opened for user shellshock by (uid=0)
+Jul 12 21:58:50 u systemd-logind[796]: New session c2 of user shellshock.
+Jul 12 21:58:52 u sshd[931]: Received SIGHUP; restarting.
+Jul 12 21:58:53 u sshd[931]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:58:53 u sshd[931]: Server listening on :: port 22.
+Jul 12 21:58:54 u sshd[931]: Received SIGHUP; restarting.
+Jul 12 21:58:55 u sshd[931]: Server listening on 0.0.0.0 port 22.
+Jul 12 21:58:55 u sshd[931]: Server listening on :: port 22.
+Jul 12 22:00:01 u CRON[2259]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:00:02 u CRON[2259]: pam_unix(cron:session): session closed for user root
+Jul 12 22:00:38 u systemd-logind[796]: Removed session c1.
+Jul 12 22:00:38 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 12 22:05:00 u CRON[4863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:05:00 u CRON[4863]: pam_unix(cron:session): session closed for user root
+Jul 12 22:15:00 u CRON[9594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:15:00 u CRON[9594]: pam_unix(cron:session): session closed for user root
+Jul 12 22:17:01 u CRON[10540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:17:01 u CRON[10540]: pam_unix(cron:session): session closed for user root
+Jul 12 22:25:01 u CRON[14289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:25:01 u CRON[14289]: pam_unix(cron:session): session closed for user root
+Jul 12 22:35:01 u CRON[18984]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:35:01 u CRON[18984]: pam_unix(cron:session): session closed for user root
+Jul 12 22:45:01 u CRON[23652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:45:01 u CRON[23652]: pam_unix(cron:session): session closed for user root
+Jul 12 22:55:01 u CRON[28392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 22:55:01 u CRON[28392]: pam_unix(cron:session): session closed for user root
+Jul 12 22:57:36 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/sbin/ifconfig wlp2s0 down
+Jul 12 22:57:36 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 22:57:36 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 22:59:02 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/sbin/ifconfig wlp2s0 up
+Jul 12 22:59:02 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 22:59:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 22:59:41 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 12 22:59:41 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 22:59:42 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:00:01 u CRON[30884]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:00:01 u CRON[30884]: pam_unix(cron:session): session closed for user root
+Jul 12 23:00:09 u sshd[931]: Received SIGHUP; restarting.
+Jul 12 23:00:11 u sshd[931]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:00:11 u sshd[931]: Server listening on :: port 22.
+Jul 12 23:00:12 u sshd[931]: Received SIGHUP; restarting.
+Jul 12 23:00:14 u sshd[931]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:00:14 u sshd[931]: Server listening on :: port 22.
+Jul 12 23:03:40 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/vi /etc/X11/Xorg.conf
+Jul 12 23:03:40 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:03:51 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:05:01 u CRON[934]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:05:01 u CRON[934]: pam_unix(cron:session): session closed for user root
+Jul 12 23:05:02 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/sbin/shutdown -r now
+Jul 12 23:05:02 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:06:06 u systemd-logind[719]: New seat seat0.
+Jul 12 23:06:06 u systemd-logind[719]: Watching system buttons on /dev/input/event3 (Power Button)
+Jul 12 23:06:06 u systemd-logind[719]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jul 12 23:06:06 u systemd-logind[719]: Watching system buttons on /dev/input/event2 (Power Button)
+Jul 12 23:06:06 u systemd-logind[719]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Jul 12 23:06:06 u systemd-logind[719]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jul 12 23:06:17 u sshd[935]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:06:17 u sshd[935]: Server listening on :: port 22.
+Jul 12 23:06:23 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 23:06:23 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 23:06:23 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 23:06:23 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 23:06:23 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 12 23:06:23 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 12 23:06:23 u systemd-logind[719]: New session c1 of user lightdm.
+Jul 12 23:06:29 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 23:06:29 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 23:06:29 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 23:06:29 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 23:06:29 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 12 23:06:31 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 12 23:06:31 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 12 23:06:31 u systemd: pam_unix(systemd-user:session): session opened for user shellshock by (uid=0)
+Jul 12 23:06:31 u systemd-logind[719]: New session c2 of user shellshock.
+Jul 12 23:06:36 u sshd[935]: Received SIGHUP; restarting.
+Jul 12 23:06:37 u sshd[935]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:06:37 u sshd[935]: Server listening on :: port 22.
+Jul 12 23:06:38 u sshd[935]: Received SIGHUP; restarting.
+Jul 12 23:06:39 u sshd[935]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:06:39 u sshd[935]: Server listening on :: port 22.
+Jul 12 23:08:21 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install smplayer
+Jul 12 23:08:21 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:08:22 u systemd-logind[719]: Removed session c1.
+Jul 12 23:08:23 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 12 23:15:01 u CRON[6251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:15:01 u CRON[6251]: pam_unix(cron:session): session closed for user root
+Jul 12 23:17:01 u CRON[7025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:17:01 u CRON[7025]: pam_unix(cron:session): session closed for user root
+Jul 12 23:22:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:23:33 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install smplayer
+Jul 12 23:23:34 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:23:47 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:24:10 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt update --fix-missing
+Jul 12 23:24:10 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:25:01 u CRON[10426]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:25:02 u CRON[10426]: pam_unix(cron:session): session closed for user root
+Jul 12 23:25:28 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/software-properties-gtk --open-tab=4
+Jul 12 23:25:28 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:25:33 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:25:51 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install smplayer
+Jul 12 23:25:51 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:26:03 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:26:11 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/software-properties-gtk --open-tab=4
+Jul 12 23:26:11 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:26:14 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:26:24 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install smplayer
+Jul 12 23:26:24 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:26:46 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:27:03 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install smplayer-l10n
+Jul 12 23:27:03 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:27:13 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:30:29 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install mplayer
+Jul 12 23:30:29 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:30:29 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:31:03 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:31:05 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install mplayer
+Jul 12 23:31:05 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:32:16 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 12 23:32:23 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/sbin/shutdown -r now
+Jul 12 23:32:23 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 12 23:33:33 u systemd-logind[744]: New seat seat0.
+Jul 12 23:33:33 u systemd-logind[744]: Watching system buttons on /dev/input/event3 (Power Button)
+Jul 12 23:33:33 u systemd-logind[744]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jul 12 23:33:33 u systemd-logind[744]: Watching system buttons on /dev/input/event2 (Power Button)
+Jul 12 23:33:33 u systemd-logind[744]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Jul 12 23:33:33 u systemd-logind[744]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jul 12 23:33:39 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:33:39 u sshd[924]: Server listening on :: port 22.
+Jul 12 23:33:44 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 23:33:44 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 23:33:44 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 23:33:44 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 23:33:44 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 12 23:33:44 u systemd-logind[744]: New session c1 of user lightdm.
+Jul 12 23:33:44 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 12 23:33:51 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 12 23:33:51 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 12 23:33:51 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 12 23:33:51 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 12 23:33:51 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 12 23:33:53 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 12 23:33:54 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 12 23:33:54 u systemd: pam_unix(systemd-user:session): session opened for user shellshock by (uid=0)
+Jul 12 23:33:54 u systemd-logind[744]: New session c2 of user shellshock.
+Jul 12 23:33:58 u sshd[924]: Received SIGHUP; restarting.
+Jul 12 23:33:59 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:33:59 u sshd[924]: Server listening on :: port 22.
+Jul 12 23:33:59 u sshd[924]: Received SIGHUP; restarting.
+Jul 12 23:34:00 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 12 23:34:00 u sshd[924]: Server listening on :: port 22.
+Jul 12 23:35:01 u CRON[2064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:35:02 u CRON[2064]: pam_unix(cron:session): session closed for user root
+Jul 12 23:35:45 u systemd-logind[744]: Removed session c1.
+Jul 12 23:35:46 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 12 23:45:01 u CRON[7074]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:45:01 u CRON[7074]: pam_unix(cron:session): session closed for user root
+Jul 12 23:55:01 u CRON[11995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:55:01 u CRON[11995]: pam_unix(cron:session): session closed for user root
+Jul 12 23:59:01 u CRON[13872]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 23:59:01 u CRON[13872]: pam_unix(cron:session): session closed for user root
+Jul 13 00:00:01 u CRON[14341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 00:00:01 u CRON[14341]: pam_unix(cron:session): session closed for user root
+Jul 13 00:05:01 u CRON[16693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 00:05:01 u CRON[16693]: pam_unix(cron:session): session closed for user root
+Jul 13 00:15:00 u CRON[21353]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 00:15:00 u CRON[21353]: pam_unix(cron:session): session closed for user root
+Jul 13 00:17:01 u CRON[22288]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 00:17:01 u CRON[22288]: pam_unix(cron:session): session closed for user root
+Jul 13 00:22:33 u systemd-logind[744]: Lid closed.
+Jul 13 00:22:33 u systemd-logind[744]: Suspending...
+Jul 13 02:16:39 u systemd-logind[744]: Lid opened.
+Jul 13 02:16:40 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 13 02:17:02 u CRON[25250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:17:03 u CRON[25250]: pam_unix(cron:session): session closed for user root
+Jul 13 02:17:03 u CRON[25253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:17:03 u CRON[25253]: pam_unix(cron:session): session closed for user root
+Jul 13 02:17:03 u CRON[25264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:17:03 u CRON[25264]: pam_unix(cron:session): session closed for user root
+Jul 13 02:18:37 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restrt
+Jul 13 02:18:37 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 02:18:37 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 02:18:41 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 13 02:18:41 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 02:18:42 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 02:19:03 u sshd[924]: Received SIGHUP; restarting.
+Jul 13 02:19:04 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 13 02:19:04 u sshd[924]: Server listening on :: port 22.
+Jul 13 02:19:05 u sshd[924]: Received SIGHUP; restarting.
+Jul 13 02:19:05 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 13 02:19:05 u sshd[924]: Server listening on :: port 22.
+Jul 13 02:25:01 u CRON[29328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:25:01 u CRON[29328]: pam_unix(cron:session): session closed for user root
+Jul 13 02:27:35 u sudo: shellshock : TTY=pts/0 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/setxkbmap -option ctrl:nocaps
+Jul 13 02:27:35 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 02:27:36 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 02:35:01 u CRON[2080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:35:01 u CRON[2080]: pam_unix(cron:session): session closed for user root
+Jul 13 02:45:01 u CRON[7123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:45:01 u CRON[7123]: pam_unix(cron:session): session closed for user root
+Jul 13 02:55:01 u CRON[12407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 02:55:01 u CRON[12407]: pam_unix(cron:session): session closed for user root
+Jul 13 03:00:01 u CRON[15250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 03:00:02 u CRON[15250]: pam_unix(cron:session): session closed for user root
+Jul 13 03:05:01 u CRON[17860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 03:05:01 u CRON[17860]: pam_unix(cron:session): session closed for user root
+Jul 13 03:09:34 u sudo: shellshock : TTY=pts/3 ; PWD=/home/shellshock/.ipython ; USER=root ; COMMAND=/usr/bin/apt install filelight
+Jul 13 03:09:34 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 03:09:41 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 03:09:45 u sudo: shellshock : TTY=pts/3 ; PWD=/home/shellshock/.ipython ; USER=root ; COMMAND=/usr/bin/apt install firelight
+Jul 13 03:09:45 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 03:09:46 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 03:15:01 u CRON[23288]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 03:15:01 u CRON[23288]: pam_unix(cron:session): session closed for user root
+Jul 13 03:17:01 u CRON[24354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 03:17:01 u CRON[24354]: pam_unix(cron:session): session closed for user root
+Jul 13 03:25:01 u CRON[28529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 03:25:01 u CRON[28529]: pam_unix(cron:session): session closed for user root
+Jul 13 03:25:28 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock/bin ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 13 03:25:28 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 13 03:25:31 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 13 03:25:46 u sshd[924]: Received SIGHUP; restarting.
+Jul 13 03:25:47 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 13 03:25:47 u sshd[924]: Server listening on :: port 22.
+Jul 13 03:25:47 u sshd[924]: Received SIGHUP; restarting.
+Jul 13 03:25:48 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 13 03:25:48 u sshd[924]: Server listening on :: port 22.
+Jul 13 03:28:46 u systemd-logind[744]: Lid closed.
+Jul 13 03:28:46 u systemd-logind[744]: Suspending...
+Jul 13 17:33:34 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 13 17:33:58 u systemd-logind[744]: Suspending...
+Jul 13 21:47:18 u systemd-logind[744]: Lid opened.
+Jul 13 21:47:19 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 13 21:48:01 u CRON[32036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 21:48:01 u CRON[32036]: pam_unix(cron:session): session closed for user root
+Jul 13 21:55:01 u CRON[3601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 21:55:02 u CRON[3601]: pam_unix(cron:session): session closed for user root
+Jul 13 22:00:01 u CRON[6096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:00:01 u CRON[6096]: pam_unix(cron:session): session closed for user root
+Jul 13 22:05:01 u CRON[8458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:05:01 u CRON[8458]: pam_unix(cron:session): session closed for user root
+Jul 13 22:15:01 u CRON[13026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:15:01 u CRON[13026]: pam_unix(cron:session): session closed for user root
+Jul 13 22:17:01 u CRON[13931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:17:01 u CRON[13931]: pam_unix(cron:session): session closed for user root
+Jul 13 22:25:01 u CRON[17547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:25:01 u CRON[17547]: pam_unix(cron:session): session closed for user root
+Jul 13 22:35:01 u CRON[22060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:35:01 u CRON[22060]: pam_unix(cron:session): session closed for user root
+Jul 13 22:45:01 u CRON[26573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:45:01 u CRON[26573]: pam_unix(cron:session): session closed for user root
+Jul 13 22:55:01 u CRON[31101]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 22:55:01 u CRON[31101]: pam_unix(cron:session): session closed for user root
+Jul 13 23:00:01 u CRON[949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:00:01 u CRON[949]: pam_unix(cron:session): session closed for user root
+Jul 13 23:05:01 u CRON[3347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:05:01 u CRON[3347]: pam_unix(cron:session): session closed for user root
+Jul 13 23:15:01 u CRON[7958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:15:01 u CRON[7958]: pam_unix(cron:session): session closed for user root
+Jul 13 23:17:01 u CRON[8864]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:17:01 u CRON[8864]: pam_unix(cron:session): session closed for user root
+Jul 13 23:25:01 u CRON[12489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:25:01 u CRON[12489]: pam_unix(cron:session): session closed for user root
+Jul 13 23:35:01 u CRON[17000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:35:01 u CRON[17000]: pam_unix(cron:session): session closed for user root
+Jul 13 23:45:01 u CRON[21517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:45:01 u CRON[21517]: pam_unix(cron:session): session closed for user root
+Jul 13 23:55:01 u CRON[26029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:55:01 u CRON[26029]: pam_unix(cron:session): session closed for user root
+Jul 13 23:59:02 u CRON[27852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 13 23:59:02 u CRON[27852]: pam_unix(cron:session): session closed for user root
+Jul 14 00:00:01 u CRON[28302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:00:01 u CRON[28302]: pam_unix(cron:session): session closed for user root
+Jul 14 00:05:01 u CRON[30573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:05:01 u CRON[30573]: pam_unix(cron:session): session closed for user root
+Jul 14 00:15:01 u CRON[2798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:15:01 u CRON[2798]: pam_unix(cron:session): session closed for user root
+Jul 14 00:17:01 u CRON[3703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:17:01 u CRON[3703]: pam_unix(cron:session): session closed for user root
+Jul 14 00:25:01 u CRON[7335]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:25:01 u CRON[7335]: pam_unix(cron:session): session closed for user root
+Jul 14 00:35:01 u CRON[11844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 00:35:01 u CRON[11844]: pam_unix(cron:session): session closed for user root
+Jul 14 00:37:33 u systemd-logind[744]: Lid closed.
+Jul 14 00:37:33 u systemd-logind[744]: Suspending...
+Jul 14 09:08:23 u systemd-logind[744]: Lid opened.
+Jul 14 09:08:26 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 14 09:15:01 u CRON[16621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:15:01 u CRON[16621]: pam_unix(cron:session): session closed for user root
+Jul 14 09:17:01 u CRON[17524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:17:01 u CRON[17524]: pam_unix(cron:session): session closed for user root
+Jul 14 09:25:01 u CRON[21119]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:25:01 u CRON[21119]: pam_unix(cron:session): session closed for user root
+Jul 14 09:35:01 u CRON[25604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:35:01 u CRON[25604]: pam_unix(cron:session): session closed for user root
+Jul 14 09:45:01 u CRON[30223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:45:01 u CRON[30223]: pam_unix(cron:session): session closed for user root
+Jul 14 09:55:01 u CRON[2615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 09:55:01 u CRON[2615]: pam_unix(cron:session): session closed for user root
+Jul 14 10:05:01 u CRON[7295]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:05:01 u CRON[7295]: pam_unix(cron:session): session closed for user root
+Jul 14 10:15:01 u CRON[11942]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:15:01 u CRON[11942]: pam_unix(cron:session): session closed for user root
+Jul 14 10:17:01 u CRON[12875]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:17:01 u CRON[12875]: pam_unix(cron:session): session closed for user root
+Jul 14 10:25:01 u CRON[16614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:25:01 u CRON[16614]: pam_unix(cron:session): session closed for user root
+Jul 14 10:35:01 u CRON[21180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:35:01 u CRON[21180]: pam_unix(cron:session): session closed for user root
+Jul 14 10:45:01 u CRON[25661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:45:01 u CRON[25661]: pam_unix(cron:session): session closed for user root
+Jul 14 10:55:01 u CRON[30155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 10:55:01 u CRON[30155]: pam_unix(cron:session): session closed for user root
+Jul 14 11:05:01 u CRON[2342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:05:01 u CRON[2342]: pam_unix(cron:session): session closed for user root
+Jul 14 11:15:01 u CRON[6834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:15:01 u CRON[6834]: pam_unix(cron:session): session closed for user root
+Jul 14 11:17:01 u CRON[7740]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:17:01 u CRON[7740]: pam_unix(cron:session): session closed for user root
+Jul 14 11:25:01 u CRON[11354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:25:01 u CRON[11354]: pam_unix(cron:session): session closed for user root
+Jul 14 11:35:01 u CRON[15885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:35:01 u CRON[15885]: pam_unix(cron:session): session closed for user root
+Jul 14 11:45:01 u CRON[20402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:45:01 u CRON[20402]: pam_unix(cron:session): session closed for user root
+Jul 14 11:55:01 u CRON[25052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 11:55:01 u CRON[25052]: pam_unix(cron:session): session closed for user root
+Jul 14 12:05:01 u CRON[29687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 12:05:01 u CRON[29687]: pam_unix(cron:session): session closed for user root
+Jul 14 12:15:01 u CRON[1639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 12:15:01 u CRON[1639]: pam_unix(cron:session): session closed for user root
+Jul 14 12:17:02 u CRON[2478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 12:17:02 u CRON[2478]: pam_unix(cron:session): session closed for user root
+Jul 14 12:25:01 u CRON[5783]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 12:25:01 u CRON[5783]: pam_unix(cron:session): session closed for user root
+Jul 14 12:35:01 u CRON[9925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 12:35:01 u CRON[9925]: pam_unix(cron:session): session closed for user root
+Jul 14 12:43:22 u systemd-logind[744]: Lid closed.
+Jul 14 12:43:23 u systemd-logind[744]: Suspending...
+Jul 14 14:38:57 u systemd-logind[744]: Lid opened.
+Jul 14 14:39:01 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 14 14:45:01 u CRON[16076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 14:45:01 u CRON[16076]: pam_unix(cron:session): session closed for user root
+Jul 14 14:55:01 u CRON[20217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 14:55:01 u CRON[20217]: pam_unix(cron:session): session closed for user root
+Jul 14 15:05:01 u CRON[24413]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:05:01 u CRON[24413]: pam_unix(cron:session): session closed for user root
+Jul 14 15:15:01 u CRON[28596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:15:01 u CRON[28596]: pam_unix(cron:session): session closed for user root
+Jul 14 15:17:01 u CRON[29444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:17:01 u CRON[29444]: pam_unix(cron:session): session closed for user root
+Jul 14 15:25:01 u CRON[328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:25:01 u CRON[328]: pam_unix(cron:session): session closed for user root
+Jul 14 15:35:01 u CRON[4631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:35:01 u CRON[4631]: pam_unix(cron:session): session closed for user root
+Jul 14 15:45:01 u CRON[8770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:45:01 u CRON[8770]: pam_unix(cron:session): session closed for user root
+Jul 14 15:55:01 u CRON[12932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 15:55:01 u CRON[12932]: pam_unix(cron:session): session closed for user root
+Jul 14 16:00:01 u CRON[15033]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:00:01 u CRON[15033]: pam_unix(cron:session): session closed for user root
+Jul 14 16:05:01 u CRON[17130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:05:01 u CRON[17130]: pam_unix(cron:session): session closed for user root
+Jul 14 16:15:01 u CRON[21282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:15:01 u CRON[21282]: pam_unix(cron:session): session closed for user root
+Jul 14 16:17:01 u CRON[22112]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:17:01 u CRON[22112]: pam_unix(cron:session): session closed for user root
+Jul 14 16:25:01 u CRON[25438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:25:01 u CRON[25438]: pam_unix(cron:session): session closed for user root
+Jul 14 16:35:01 u CRON[29629]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:35:01 u CRON[29629]: pam_unix(cron:session): session closed for user root
+Jul 14 16:45:01 u CRON[1478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:45:01 u CRON[1478]: pam_unix(cron:session): session closed for user root
+Jul 14 16:55:01 u CRON[5681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 16:55:01 u CRON[5681]: pam_unix(cron:session): session closed for user root
+Jul 14 17:00:01 u CRON[7769]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:00:01 u CRON[7769]: pam_unix(cron:session): session closed for user root
+Jul 14 17:05:01 u CRON[9867]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:05:02 u CRON[9867]: pam_unix(cron:session): session closed for user root
+Jul 14 17:15:01 u CRON[14051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:15:01 u CRON[14051]: pam_unix(cron:session): session closed for user root
+Jul 14 17:17:01 u CRON[14893]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:17:01 u CRON[14893]: pam_unix(cron:session): session closed for user root
+Jul 14 17:25:01 u CRON[18230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:25:01 u CRON[18230]: pam_unix(cron:session): session closed for user root
+Jul 14 17:35:01 u CRON[22392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:35:01 u CRON[22392]: pam_unix(cron:session): session closed for user root
+Jul 14 17:45:01 u CRON[26558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:45:01 u CRON[26558]: pam_unix(cron:session): session closed for user root
+Jul 14 17:55:01 u CRON[30760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 17:55:01 u CRON[30760]: pam_unix(cron:session): session closed for user root
+Jul 14 18:00:01 u CRON[402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:00:01 u CRON[402]: pam_unix(cron:session): session closed for user root
+Jul 14 18:05:01 u CRON[2668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:05:01 u CRON[2668]: pam_unix(cron:session): session closed for user root
+Jul 14 18:15:01 u CRON[6847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:15:01 u CRON[6847]: pam_unix(cron:session): session closed for user root
+Jul 14 18:17:01 u CRON[7687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:17:01 u CRON[7687]: pam_unix(cron:session): session closed for user root
+Jul 14 18:25:01 u CRON[11031]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:25:01 u CRON[11031]: pam_unix(cron:session): session closed for user root
+Jul 14 18:35:01 u CRON[15243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:35:01 u CRON[15243]: pam_unix(cron:session): session closed for user root
+Jul 14 18:45:01 u CRON[19427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:45:01 u CRON[19427]: pam_unix(cron:session): session closed for user root
+Jul 14 18:55:01 u CRON[23616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 18:55:01 u CRON[23616]: pam_unix(cron:session): session closed for user root
+Jul 14 18:59:03 u systemd-logind[744]: Lid closed.
+Jul 14 18:59:03 u systemd-logind[744]: Suspending...
+Jul 14 21:45:09 u systemd-logind[744]: Lid opened.
+Jul 14 21:45:11 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 14 21:45:54 u CRON[25849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u CRON[25849]: pam_unix(cron:session): session closed for user root
+Jul 14 21:45:54 u CRON[25852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u CRON[25852]: pam_unix(cron:session): session closed for user root
+Jul 14 21:45:54 u CRON[25864]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u CRON[25865]: pam_unix(cron:session): session opened for user shellshock by (uid=0)
+Jul 14 21:45:54 u CRON[25864]: pam_unix(cron:session): session closed for user root
+Jul 14 21:45:54 u CRON[25879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u CRON[25879]: pam_unix(cron:session): session closed for user root
+Jul 14 21:45:54 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/killall rtcwake
+Jul 14 21:45:54 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 14 21:45:54 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/rtcwake -l -m no -t 1468551600
+Jul 14 21:45:54 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 14 21:45:54 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 14 21:45:56 u CRON[25865]: pam_unix(cron:session): session closed for user shellshock
+Jul 14 21:48:01 u CRON[26842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:48:02 u CRON[26842]: pam_unix(cron:session): session closed for user root
+Jul 14 21:55:01 u CRON[30064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 21:55:01 u CRON[30064]: pam_unix(cron:session): session closed for user root
+Jul 14 22:00:01 u CRON[32341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:00:01 u CRON[32341]: pam_unix(cron:session): session closed for user root
+Jul 14 22:05:01 u CRON[2306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:05:01 u CRON[2306]: pam_unix(cron:session): session closed for user root
+Jul 14 22:15:01 u CRON[6818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:15:01 u CRON[6818]: pam_unix(cron:session): session closed for user root
+Jul 14 22:17:01 u CRON[7725]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:17:01 u CRON[7725]: pam_unix(cron:session): session closed for user root
+Jul 14 22:25:01 u CRON[11311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:25:01 u CRON[11311]: pam_unix(cron:session): session closed for user root
+Jul 14 22:35:01 u CRON[15790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:35:01 u CRON[15790]: pam_unix(cron:session): session closed for user root
+Jul 14 22:45:01 u CRON[20380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:45:01 u CRON[20380]: pam_unix(cron:session): session closed for user root
+Jul 14 22:55:01 u CRON[24892]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 22:55:01 u CRON[24892]: pam_unix(cron:session): session closed for user root
+Jul 14 23:00:01 u CRON[27186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 23:00:01 u CRON[27186]: pam_unix(cron:session): session closed for user root
+Jul 14 23:05:01 u CRON[29469]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 23:05:01 u CRON[29469]: pam_unix(cron:session): session closed for user root
+Jul 14 23:15:01 u CRON[1702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 23:15:01 u CRON[1702]: pam_unix(cron:session): session closed for user root
+Jul 14 23:17:01 u CRON[2598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 23:17:01 u CRON[2598]: pam_unix(cron:session): session closed for user root
+Jul 14 23:25:01 u CRON[6170]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 14 23:25:01 u CRON[6170]: pam_unix(cron:session): session closed for user root
+Jul 14 23:31:25 u systemd-logind[744]: Lid closed.
+Jul 14 23:31:26 u systemd-logind[744]: Suspending...
+Jul 15 12:00:46 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 15 12:01:08 u systemd-logind[744]: Suspending...
+Jul 15 20:23:31 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 15 20:23:56 u systemd-logind[744]: Suspending...
+Jul 15 20:27:17 u CRON[9809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 20:27:17 u CRON[9809]: pam_unix(cron:session): session closed for user root
+Jul 15 20:27:17 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 15 20:27:22 u systemd-logind[744]: Lid opened.
+Jul 15 20:35:01 u CRON[13068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 20:35:01 u CRON[13068]: pam_unix(cron:session): session closed for user root
+Jul 15 20:45:01 u CRON[17734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 20:45:01 u CRON[17734]: pam_unix(cron:session): session closed for user root
+Jul 15 20:52:34 u sudo: shellshock : TTY=pts/1 ; PWD=/home/shellshock ; USER=root ; COMMAND=/bin/bash
+Jul 15 20:52:34 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 15 20:52:53 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 15 20:55:01 u CRON[22659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 20:55:01 u CRON[22659]: pam_unix(cron:session): session closed for user root
+Jul 15 21:00:01 u CRON[24873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:00:01 u CRON[24873]: pam_unix(cron:session): session closed for user root
+Jul 15 21:05:01 u CRON[27106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:05:01 u CRON[27106]: pam_unix(cron:session): session closed for user root
+Jul 15 21:15:01 u CRON[31582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:15:01 u CRON[31582]: pam_unix(cron:session): session closed for user root
+Jul 15 21:17:01 u CRON[32511]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:17:01 u CRON[32511]: pam_unix(cron:session): session closed for user root
+Jul 15 21:25:01 u CRON[3807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:25:01 u CRON[3807]: pam_unix(cron:session): session closed for user root
+Jul 15 21:35:01 u CRON[8297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:35:01 u CRON[8297]: pam_unix(cron:session): session closed for user root
+Jul 15 21:45:01 u CRON[12790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:45:01 u CRON[12790]: pam_unix(cron:session): session closed for user root
+Jul 15 21:48:01 u CRON[14138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:48:01 u CRON[14138]: pam_unix(cron:session): session closed for user root
+Jul 15 21:55:01 u CRON[17300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 21:55:01 u CRON[17300]: pam_unix(cron:session): session closed for user root
+Jul 15 22:00:01 u CRON[19540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 22:00:01 u CRON[19540]: pam_unix(cron:session): session closed for user root
+Jul 15 22:05:01 u CRON[21785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 22:05:01 u CRON[21785]: pam_unix(cron:session): session closed for user root
+Jul 15 22:15:01 u CRON[26259]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 22:15:01 u CRON[26259]: pam_unix(cron:session): session closed for user root
+Jul 15 22:17:01 u CRON[27185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 22:17:01 u CRON[27185]: pam_unix(cron:session): session closed for user root
+Jul 15 22:25:01 u CRON[30799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 22:25:01 u CRON[30799]: pam_unix(cron:session): session closed for user root
+Jul 15 22:33:36 u systemd-logind[744]: Lid closed.
+Jul 15 22:33:36 u systemd-logind[744]: Suspending...
+Jul 15 23:28:23 u systemd-logind[744]: Lid opened.
+Jul 15 23:28:25 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 15 23:28:45 u CRON[2670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 23:28:46 u CRON[2670]: pam_unix(cron:session): session closed for user root
+Jul 15 23:35:01 u CRON[5670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 23:35:01 u CRON[5670]: pam_unix(cron:session): session closed for user root
+Jul 15 23:45:01 u CRON[10167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 23:45:01 u CRON[10167]: pam_unix(cron:session): session closed for user root
+Jul 15 23:55:01 u CRON[14571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 23:55:01 u CRON[14571]: pam_unix(cron:session): session closed for user root
+Jul 15 23:59:01 u CRON[16345]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 23:59:01 u CRON[16345]: pam_unix(cron:session): session closed for user root
+Jul 16 00:00:01 u CRON[16786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 00:00:01 u CRON[16786]: pam_unix(cron:session): session closed for user root
+Jul 16 00:05:01 u CRON[18971]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 00:05:01 u CRON[18971]: pam_unix(cron:session): session closed for user root
+Jul 16 00:05:36 u systemd-logind[744]: Lid closed.
+Jul 16 00:05:36 u systemd-logind[744]: Suspending...
+Jul 16 07:27:18 u systemd-logind[744]: Lid opened.
+Jul 16 07:27:20 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 16 07:30:01 u CRON[20998]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 07:30:01 u CRON[20998]: pam_unix(cron:session): session closed for user root
+Jul 16 07:30:48 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 07:30:49 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 07:30:49 u sshd[924]: Server listening on :: port 22.
+Jul 16 07:30:52 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 07:30:52 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 07:30:52 u sshd[924]: Server listening on :: port 22.
+Jul 16 07:35:02 u CRON[23583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 07:35:02 u CRON[23583]: pam_unix(cron:session): session closed for user root
+Jul 16 07:45:01 u CRON[27973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 07:45:01 u CRON[27973]: pam_unix(cron:session): session closed for user root
+Jul 16 07:55:01 u CRON[32264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 07:55:01 u CRON[32264]: pam_unix(cron:session): session closed for user root
+Jul 16 08:05:01 u CRON[4208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:05:01 u CRON[4208]: pam_unix(cron:session): session closed for user root
+Jul 16 08:15:01 u CRON[8114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:15:01 u CRON[8114]: pam_unix(cron:session): session closed for user root
+Jul 16 08:17:01 u CRON[8876]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:17:01 u CRON[8876]: pam_unix(cron:session): session closed for user root
+Jul 16 08:25:01 u CRON[11922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:25:01 u CRON[11922]: pam_unix(cron:session): session closed for user root
+Jul 16 08:35:01 u CRON[15683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:35:01 u CRON[15683]: pam_unix(cron:session): session closed for user root
+Jul 16 08:38:14 u systemd-logind[744]: Lid closed.
+Jul 16 08:38:14 u systemd-logind[744]: Suspending...
+Jul 16 10:46:27 u systemd-logind[744]: Lid opened.
+Jul 16 10:46:30 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 16 10:55:01 u CRON[20649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 10:55:01 u CRON[20649]: pam_unix(cron:session): session closed for user root
+Jul 16 10:56:56 u sudo: shellshock : TTY=pts/3 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 10:56:56 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 10:56:57 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 10:57:15 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 10:57:16 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 10:57:16 u sshd[924]: Server listening on :: port 22.
+Jul 16 10:57:17 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 10:57:17 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 10:57:17 u sshd[924]: Server listening on :: port 22.
+Jul 16 11:05:01 u CRON[25192]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 11:05:01 u CRON[25192]: pam_unix(cron:session): session closed for user root
+Jul 16 11:15:01 u CRON[29529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 11:15:01 u CRON[29529]: pam_unix(cron:session): session closed for user root
+Jul 16 11:17:01 u CRON[30366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 11:17:01 u CRON[30366]: pam_unix(cron:session): session closed for user root
+Jul 16 11:25:01 u CRON[1686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 11:25:01 u CRON[1686]: pam_unix(cron:session): session closed for user root
+Jul 16 11:35:01 u CRON[5907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 11:35:01 u CRON[5907]: pam_unix(cron:session): session closed for user root
+Jul 16 11:44:06 u systemd-logind[744]: Lid closed.
+Jul 16 11:44:06 u systemd-logind[744]: Suspending...
+Jul 16 12:00:36 u systemd-logind[744]: Lid opened.
+Jul 16 12:00:38 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 16 12:00:51 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 12:00:52 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 12:00:52 u sshd[924]: Server listening on :: port 22.
+Jul 16 12:00:52 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 12:00:53 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 12:00:53 u sshd[924]: Server listening on :: port 22.
+Jul 16 12:05:03 u CRON[12354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:05:03 u CRON[12354]: pam_unix(cron:session): session closed for user root
+Jul 16 12:13:44 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 16 12:13:44 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 12:15:01 u CRON[16972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:15:01 u CRON[16972]: pam_unix(cron:session): session closed for user root
+Jul 16 12:15:32 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 12:17:01 u CRON[17834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:17:01 u CRON[17834]: pam_unix(cron:session): session closed for user root
+Jul 16 12:17:04 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jul 16 12:17:04 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 12:25:01 u CRON[21255]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:25:01 u CRON[21255]: pam_unix(cron:session): session closed for user root
+Jul 16 12:35:01 u CRON[25799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:35:01 u CRON[25799]: pam_unix(cron:session): session closed for user root
+Jul 16 12:45:01 u CRON[30048]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:45:01 u CRON[30048]: pam_unix(cron:session): session closed for user root
+Jul 16 12:55:01 u CRON[1979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 12:55:01 u CRON[1979]: pam_unix(cron:session): session closed for user root
+Jul 16 13:05:01 u CRON[6233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 13:05:01 u CRON[6233]: pam_unix(cron:session): session closed for user root
+Jul 16 13:15:01 u CRON[10822]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 13:15:01 u CRON[10822]: pam_unix(cron:session): session closed for user root
+Jul 16 13:17:01 u CRON[11716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 13:17:01 u CRON[11716]: pam_unix(cron:session): session closed for user root
+Jul 16 13:25:01 u CRON[15327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 13:25:01 u CRON[15327]: pam_unix(cron:session): session closed for user root
+Jul 16 13:35:01 u CRON[19925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 13:35:01 u CRON[19925]: pam_unix(cron:session): session closed for user root
+Jul 16 13:36:45 u systemd-logind[744]: Lid closed.
+Jul 16 13:36:45 u systemd-logind[744]: Suspending...
+Jul 16 14:37:00 u systemd-logind[744]: Lid opened.
+Jul 16 14:37:01 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:37:03 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 16 14:39:20 u sudo: shellshock : TTY=pts/3 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 14:39:20 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:39:21 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:39:50 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:39:51 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:39:51 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:40:01 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:40:02 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:40:02 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:41:20 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 14:41:20 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:41:21 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:41:31 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:41:32 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:41:32 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:41:33 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:41:34 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:41:34 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:43:54 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager stop
+Jul 16 14:43:54 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:43:57 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:44:43 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 14:44:43 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:44:43 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:44:54 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:44:55 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:44:55 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:44:55 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:44:56 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:44:56 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:45:01 u CRON[25977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 14:45:01 u CRON[25977]: pam_unix(cron:session): session closed for user root
+Jul 16 14:48:15 u lightdm: pam_unix(lightdm:session): session closed for user shellshock
+Jul 16 14:48:19 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 16 14:48:19 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 16 14:48:19 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 16 14:48:19 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 16 14:48:19 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 16 14:48:19 u systemd-logind[744]: New session c3 of user lightdm.
+Jul 16 14:48:19 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 16 14:48:24 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 16 14:48:24 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 16 14:48:24 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 16 14:48:24 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 16 14:48:24 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 16 14:48:34 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 16 14:48:34 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 16 14:48:34 u systemd-logind[744]: New session c4 of user shellshock.
+Jul 16 14:48:38 u gnome-keyring-daemon[28771]: The SSH agent was already initialized
+Jul 16 14:48:38 u gnome-keyring-daemon[28771]: The Secret Service was already initialized
+Jul 16 14:48:38 u gnome-keyring-daemon[28771]: The PKCS#11 component was already initialized
+Jul 16 14:48:39 u polkitd(authority=local): Registered Authentication Agent for unix-session:c4 (system bus name :1.670 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jul 16 14:48:41 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 14:48:41 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 14:48:41 u pkexec[29042]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness-switch 0]
+Jul 16 14:48:58 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 14:48:58 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 14:48:58 u pkexec[29131]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/home/shellshock] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jul 16 14:49:42 u gnome-keyring-daemon[28771]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jul 16 14:50:04 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service networking restart
+Jul 16 14:50:04 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:50:05 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:50:14 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 14:50:14 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:50:15 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:50:20 u systemd-logind[744]: Removed session c3.
+Jul 16 14:50:20 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 16 14:50:31 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:50:32 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:50:32 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:50:33 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 14:50:34 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 14:50:34 u sshd[924]: Server listening on :: port 22.
+Jul 16 14:51:20 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 16 14:51:20 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:51:24 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:51:29 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jul 16 14:51:29 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:52:24 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/setxkbmap -option ctrl:nocaps
+Jul 16 14:52:24 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:52:24 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 14:55:01 u CRON[354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 14:55:01 u CRON[354]: pam_unix(cron:session): session closed for user root
+Jul 16 14:55:14 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/tracepath 194.44.214.136
+Jul 16 14:55:14 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 14:55:31 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:01:18 u sudo: shellshock : TTY=pts/9 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service wicd stop
+Jul 16 15:01:18 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:01:22 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:01:40 u sudo: shellshock : TTY=pts/9 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service wicd start
+Jul 16 15:01:40 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:01:43 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:02:11 u sudo: shellshock : TTY=pts/9 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 15:02:11 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:02:12 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:02:23 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:02:23 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:02:23 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:02:24 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:02:24 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:02:24 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:03:21 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:03:22 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jul 16 15:03:22 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:05:01 u CRON[3268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:05:01 u CRON[3268]: pam_unix(cron:session): session closed for user root
+Jul 16 15:13:37 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:13:38 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:13:38 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:13:39 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:13:39 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:13:39 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:13:50 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:13:51 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:13:51 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:13:51 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:13:52 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:13:52 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:14:01 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:14:02 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jul 16 15:14:02 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:15:01 u CRON[5546]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:15:01 u CRON[5546]: pam_unix(cron:session): session closed for user root
+Jul 16 15:17:01 u CRON[7557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:17:01 u CRON[7557]: pam_unix(cron:session): session closed for user root
+Jul 16 15:25:02 u CRON[1001]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:25:02 u CRON[1001]: pam_unix(cron:session): session closed for user root
+Jul 16 15:26:35 u dbus[680]: [system] Failed to activate service 'org.freedesktop.UPower': timed out
+Jul 16 15:27:03 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:27:45 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 15:27:45 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 15:27:45 u pkexec[6185]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/home/shellshock] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jul 16 15:33:09 u sudo: shellshock : TTY=pts/11 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jul 16 15:33:09 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:33:10 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:35:01 u CRON[7159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:35:01 u CRON[7159]: pam_unix(cron:session): session closed for user root
+Jul 16 15:37:17 u sudo: shellshock : TTY=pts/4 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 15:37:17 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 15:37:19 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 15:37:33 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:37:34 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:37:34 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:37:34 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 15:37:35 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 15:37:35 u sshd[924]: Server listening on :: port 22.
+Jul 16 15:45:01 u CRON[8516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:45:01 u CRON[8516]: pam_unix(cron:session): session closed for user root
+Jul 16 15:55:01 u CRON[9366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 15:55:01 u CRON[9366]: pam_unix(cron:session): session closed for user root
+Jul 16 16:00:01 u CRON[9938]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 16:00:01 u CRON[9938]: pam_unix(cron:session): session closed for user root
+Jul 16 16:05:01 u CRON[10676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 16:05:01 u CRON[10676]: pam_unix(cron:session): session closed for user root
+Jul 16 16:15:01 u CRON[11670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 16:15:02 u CRON[11670]: pam_unix(cron:session): session closed for user root
+Jul 16 16:15:36 u sudo: shellshock : TTY=pts/9 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 16 16:15:36 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 16 16:15:37 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 16:15:57 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 16:15:57 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 16:15:57 u sshd[924]: Server listening on :: port 22.
+Jul 16 16:15:58 u sshd[924]: Received SIGHUP; restarting.
+Jul 16 16:15:59 u sshd[924]: Server listening on 0.0.0.0 port 22.
+Jul 16 16:15:59 u sshd[924]: Server listening on :: port 22.
+Jul 16 16:17:01 u CRON[12212]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 16:17:01 u CRON[12212]: pam_unix(cron:session): session closed for user root
+Jul 16 16:17:22 u systemd-logind[744]: Lid closed.
+Jul 16 16:17:22 u dbus[680]: [system] Rejected send message, 4 matched rules; type="method_call", sender=":1.674" (uid=1000 pid=29015 comm="xfce4-power-manager ") interface="org.freedesktop.NetworkManager" member="Sleep" error name="(unset)" requested_reply="0" destination="org.freedesktop.NetworkManager" (uid=0 pid=11772 comm="/usr/sbin/NetworkManager --no-daemon ")
+Jul 16 16:17:22 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 16:17:22 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 16:17:22 u pkexec[12236]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 10]
+Jul 16 16:17:22 u dbus[680]: [system] Rejected send message, 4 matched rules; type="method_call", sender=":1.674" (uid=1000 pid=29015 comm="xfce4-power-manager ") interface="org.freedesktop.NetworkManager" member="Sleep" error name="(unset)" requested_reply="0" destination="org.freedesktop.NetworkManager" (uid=0 pid=11772 comm="/usr/sbin/NetworkManager --no-daemon ")
+Jul 16 22:20:13 u systemd-logind[744]: Operation 'sleep' finished.
+Jul 16 22:22:50 u systemd-logind[744]: Lid opened.
+Jul 16 22:22:55 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:22:55 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:22:55 u pkexec[12649]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 9]
+Jul 16 22:23:00 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:00 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:00 u pkexec[12657]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 8]
+Jul 16 22:23:00 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:00 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:00 u pkexec[12665]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 7]
+Jul 16 22:23:00 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:00 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:00 u pkexec[12671]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 6]
+Jul 16 22:23:00 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:00 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:00 u pkexec[12677]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 5]
+Jul 16 22:23:01 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:01 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:01 u pkexec[12683]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 4]
+Jul 16 22:23:01 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:01 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:01 u pkexec[12689]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 3]
+Jul 16 22:23:01 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:01 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:01 u pkexec[12695]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 2]
+Jul 16 22:23:01 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:01 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:01 u pkexec[12701]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 1]
+Jul 16 22:23:01 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:23:01 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:23:01 u pkexec[12707]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 0]
+Jul 16 22:25:01 u CRON[13156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 22:25:01 u CRON[13156]: pam_unix(cron:session): session closed for user root
+Jul 16 22:35:01 u CRON[13877]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 22:35:01 u CRON[13877]: pam_unix(cron:session): session closed for user root
+Jul 16 22:40:48 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 16 22:40:48 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 16 22:40:48 u pkexec[14228]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness 1]
+Jul 16 22:45:01 u CRON[14457]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 22:45:01 u CRON[14457]: pam_unix(cron:session): session closed for user root
+Jul 16 22:55:01 u CRON[14993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 22:55:01 u CRON[14993]: pam_unix(cron:session): session closed for user root
+Jul 16 23:00:01 u CRON[15264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:00:01 u CRON[15264]: pam_unix(cron:session): session closed for user root
+Jul 16 23:05:01 u CRON[15551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:05:01 u CRON[15551]: pam_unix(cron:session): session closed for user root
+Jul 16 23:15:01 u CRON[16077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:15:01 u CRON[16077]: pam_unix(cron:session): session closed for user root
+Jul 16 23:17:01 u CRON[16187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:17:01 u CRON[16187]: pam_unix(cron:session): session closed for user root
+Jul 16 23:25:01 u CRON[16614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:25:01 u CRON[16614]: pam_unix(cron:session): session closed for user root
+Jul 16 23:35:01 u CRON[17156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:35:01 u CRON[17156]: pam_unix(cron:session): session closed for user root
+Jul 16 23:45:01 u CRON[17689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:45:01 u CRON[17689]: pam_unix(cron:session): session closed for user root
+Jul 16 23:53:52 u systemd-logind[744]: Power key pressed.
+Jul 16 23:55:01 u CRON[18237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:55:01 u CRON[18237]: pam_unix(cron:session): session closed for user root
+Jul 16 23:59:01 u CRON[18451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 23:59:01 u CRON[18451]: pam_unix(cron:session): session closed for user root
+Jul 17 00:00:01 u CRON[18511]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:00:01 u CRON[18511]: pam_unix(cron:session): session closed for user root
+Jul 17 00:05:01 u CRON[18789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:05:01 u CRON[18789]: pam_unix(cron:session): session closed for user root
+Jul 17 00:15:01 u CRON[19322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:15:01 u CRON[19322]: pam_unix(cron:session): session closed for user root
+Jul 17 00:17:01 u CRON[19434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:17:01 u CRON[19434]: pam_unix(cron:session): session closed for user root
+Jul 17 00:25:01 u CRON[19868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:25:01 u CRON[19868]: pam_unix(cron:session): session closed for user root
+Jul 17 00:35:01 u CRON[20416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:35:01 u CRON[20416]: pam_unix(cron:session): session closed for user root
+Jul 17 00:45:01 u CRON[20961]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:45:01 u CRON[20961]: pam_unix(cron:session): session closed for user root
+Jul 17 00:55:01 u CRON[21492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 00:55:01 u CRON[21492]: pam_unix(cron:session): session closed for user root
+Jul 17 00:57:05 u pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 17 00:57:05 u pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Jul 17 00:57:05 u pkexec[21608]: shellshock: Executing command [USER=root] [TTY=unknown] [CWD=/] [COMMAND=/usr/sbin/xfpm-power-backlight-helper --set-brightness-switch 1]
+Jul 17 00:57:05 u systemd-logind[744]: System is powering down.
+Jul 17 00:57:06 u polkitd(authority=local): Unregistered Authentication Agent for unix-session:c4 (system bus name :1.670, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jul 17 00:57:06 u sshd[924]: Received signal 15; terminating.
+Jul 17 11:03:46 u systemd-logind[814]: New seat seat0.
+Jul 17 11:03:46 u systemd-logind[814]: Watching system buttons on /dev/input/event3 (Power Button)
+Jul 17 11:03:46 u systemd-logind[814]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jul 17 11:03:46 u systemd-logind[814]: Watching system buttons on /dev/input/event2 (Power Button)
+Jul 17 11:03:46 u systemd-logind[814]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Jul 17 11:03:46 u systemd-logind[814]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jul 17 11:03:53 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 11:03:53 u sshd[962]: Server listening on :: port 22.
+Jul 17 11:04:07 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 17 11:04:07 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 17 11:04:07 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 17 11:04:07 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 17 11:04:07 u lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jul 17 11:04:07 u systemd-logind[814]: New session c1 of user lightdm.
+Jul 17 11:04:07 u systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jul 17 11:04:17 u lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jul 17 11:04:17 u lightdm: PAM adding faulty module: pam_kwallet.so
+Jul 17 11:04:17 u lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jul 17 11:04:17 u lightdm: PAM adding faulty module: pam_kwallet5.so
+Jul 17 11:04:17 u lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "shellshock"
+Jul 17 11:04:28 u lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jul 17 11:04:28 u lightdm: pam_unix(lightdm:session): session opened for user shellshock by (uid=0)
+Jul 17 11:04:28 u systemd: pam_unix(systemd-user:session): session opened for user shellshock by (uid=0)
+Jul 17 11:04:28 u systemd-logind[814]: New session c2 of user shellshock.
+Jul 17 11:05:01 u CRON[1741]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:05:01 u CRON[1741]: pam_unix(cron:session): session closed for user root
+Jul 17 11:06:08 u systemd-logind[814]: Removed session c1.
+Jul 17 11:06:08 u systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jul 17 11:06:12 u sudo: shellshock : TTY=pts/3 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/setxkbmap -option ctrl:nocaps
+Jul 17 11:06:12 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 11:06:12 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 11:15:01 u CRON[8461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:15:01 u CRON[8461]: pam_unix(cron:session): session closed for user root
+Jul 17 11:17:01 u CRON[9581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:17:01 u CRON[9581]: pam_unix(cron:session): session closed for user root
+Jul 17 11:25:01 u CRON[14859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:25:01 u CRON[14859]: pam_unix(cron:session): session closed for user root
+Jul 17 11:35:01 u CRON[19825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:35:01 u CRON[19825]: pam_unix(cron:session): session closed for user root
+Jul 17 11:45:01 u CRON[24660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:45:01 u CRON[24660]: pam_unix(cron:session): session closed for user root
+Jul 17 11:55:01 u CRON[29468]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:55:01 u CRON[29468]: pam_unix(cron:session): session closed for user root
+Jul 17 12:05:01 u CRON[1969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:05:01 u CRON[1969]: pam_unix(cron:session): session closed for user root
+Jul 17 12:15:01 u CRON[6807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:15:01 u CRON[6807]: pam_unix(cron:session): session closed for user root
+Jul 17 12:17:01 u CRON[7789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:17:01 u CRON[7789]: pam_unix(cron:session): session closed for user root
+Jul 17 12:25:01 u CRON[11624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:25:01 u CRON[11624]: pam_unix(cron:session): session closed for user root
+Jul 17 12:35:01 u CRON[16530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:35:01 u CRON[16530]: pam_unix(cron:session): session closed for user root
+Jul 17 12:45:01 u CRON[21441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:45:01 u CRON[21441]: pam_unix(cron:session): session closed for user root
+Jul 17 12:55:01 u CRON[26328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:55:01 u CRON[26328]: pam_unix(cron:session): session closed for user root
+Jul 17 13:05:01 u CRON[31157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 13:05:01 u CRON[31157]: pam_unix(cron:session): session closed for user root
+Jul 17 13:15:02 u CRON[3600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 13:15:02 u CRON[3600]: pam_unix(cron:session): session closed for user root
+Jul 17 13:16:10 u systemd-logind[814]: Lid closed.
+Jul 17 13:16:10 u systemd-logind[814]: Suspending...
+Jul 17 16:12:57 u systemd-logind[814]: Lid opened.
+Jul 17 16:12:57 u systemd-logind[814]: Operation 'sleep' finished.
+Jul 17 16:13:40 u CRON[4802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:13:40 u CRON[4802]: pam_unix(cron:session): session closed for user root
+Jul 17 16:13:45 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 16:13:46 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 16:13:46 u sshd[962]: Server listening on :: port 22.
+Jul 17 16:13:48 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 16:13:49 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 16:13:49 u sshd[962]: Server listening on :: port 22.
+Jul 17 16:15:01 u CRON[5788]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:15:02 u CRON[5788]: pam_unix(cron:session): session closed for user root
+Jul 17 16:17:01 u CRON[6814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:17:01 u CRON[6814]: pam_unix(cron:session): session closed for user root
+Jul 17 16:18:45 u login[1148]: pam_unix(login:session): session opened for user shellshock by LOGIN(uid=0)
+Jul 17 16:18:45 u systemd-logind[814]: New session 20 of user shellshock.
+Jul 17 16:25:01 u CRON[10972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:25:01 u CRON[10972]: pam_unix(cron:session): session closed for user root
+Jul 17 16:34:30 u sudo: shellshock : TTY=pts/7 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/nethogs
+Jul 17 16:34:30 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 16:35:01 u CRON[16483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:35:01 u CRON[16483]: pam_unix(cron:session): session closed for user root
+Jul 17 16:45:01 u CRON[21435]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:45:01 u CRON[21435]: pam_unix(cron:session): session closed for user root
+Jul 17 16:55:01 u CRON[26344]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 16:55:01 u CRON[26344]: pam_unix(cron:session): session closed for user root
+Jul 17 17:00:01 u CRON[28867]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:00:01 u CRON[28867]: pam_unix(cron:session): session closed for user root
+Jul 17 17:05:01 u CRON[31456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:05:01 u CRON[31456]: pam_unix(cron:session): session closed for user root
+Jul 17 17:15:01 u CRON[4491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:15:01 u CRON[4491]: pam_unix(cron:session): session closed for user root
+Jul 17 17:17:01 u CRON[5491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:17:01 u CRON[5491]: pam_unix(cron:session): session closed for user root
+Jul 17 17:25:01 u CRON[9634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:25:01 u CRON[9634]: pam_unix(cron:session): session closed for user root
+Jul 17 17:35:01 u CRON[14839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:35:01 u CRON[14839]: pam_unix(cron:session): session closed for user root
+Jul 17 17:45:01 u CRON[20057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:45:01 u CRON[20057]: pam_unix(cron:session): session closed for user root
+Jul 17 17:55:01 u CRON[25295]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 17:55:01 u CRON[25295]: pam_unix(cron:session): session closed for user root
+Jul 17 18:00:01 u CRON[27916]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:00:01 u CRON[27916]: pam_unix(cron:session): session closed for user root
+Jul 17 18:05:01 u CRON[30556]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:05:01 u CRON[30556]: pam_unix(cron:session): session closed for user root
+Jul 17 18:15:01 u CRON[3448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:15:01 u CRON[3448]: pam_unix(cron:session): session closed for user root
+Jul 17 18:17:01 u CRON[4497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:17:01 u CRON[4497]: pam_unix(cron:session): session closed for user root
+Jul 17 18:25:01 u CRON[8671]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:25:01 u CRON[8671]: pam_unix(cron:session): session closed for user root
+Jul 17 18:35:01 u CRON[13892]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:35:02 u CRON[13892]: pam_unix(cron:session): session closed for user root
+Jul 17 18:45:01 u CRON[19136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:45:01 u CRON[19136]: pam_unix(cron:session): session closed for user root
+Jul 17 18:55:01 u CRON[24349]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 18:55:01 u CRON[24349]: pam_unix(cron:session): session closed for user root
+Jul 17 19:00:01 u CRON[26955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:00:01 u CRON[26955]: pam_unix(cron:session): session closed for user root
+Jul 17 19:05:01 u CRON[29591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:05:01 u CRON[29591]: pam_unix(cron:session): session closed for user root
+Jul 17 19:15:01 u CRON[2619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:15:01 u CRON[2619]: pam_unix(cron:session): session closed for user root
+Jul 17 19:17:01 u CRON[3695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:17:01 u CRON[3695]: pam_unix(cron:session): session closed for user root
+Jul 17 19:25:01 u CRON[7947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:25:01 u CRON[7947]: pam_unix(cron:session): session closed for user root
+Jul 17 19:35:01 u CRON[13002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:35:01 u CRON[13002]: pam_unix(cron:session): session closed for user root
+Jul 17 19:45:01 u CRON[18003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:45:01 u CRON[18003]: pam_unix(cron:session): session closed for user root
+Jul 17 19:52:22 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 17 19:52:22 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 19:52:24 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 19:52:44 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 19:52:45 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 19:52:45 u sshd[962]: Server listening on :: port 22.
+Jul 17 19:52:48 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 19:52:49 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 19:52:49 u sshd[962]: Server listening on :: port 22.
+Jul 17 19:55:01 u CRON[23732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 19:55:01 u CRON[23732]: pam_unix(cron:session): session closed for user root
+Jul 17 19:58:33 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 20:00:01 u CRON[26264]: pam_unix(cron:session): session opened for user shellshock by (uid=0)
+Jul 17 20:00:01 u CRON[26263]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:00:02 u CRON[26263]: pam_unix(cron:session): session closed for user root
+Jul 17 20:00:02 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/killall rtcwake
+Jul 17 20:00:02 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 17 20:00:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 20:00:02 u sudo: shellshock : TTY=unknown ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/rtcwake -l -m no -t 1468810800
+Jul 17 20:00:02 u sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jul 17 20:00:02 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 20:00:04 u CRON[26264]: pam_unix(cron:session): session closed for user shellshock
+Jul 17 20:05:01 u CRON[28675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:05:01 u CRON[28675]: pam_unix(cron:session): session closed for user root
+Jul 17 20:15:01 u CRON[1134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:15:01 u CRON[1134]: pam_unix(cron:session): session closed for user root
+Jul 17 20:17:01 u CRON[2113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:17:01 u CRON[2113]: pam_unix(cron:session): session closed for user root
+Jul 17 20:25:01 u CRON[5880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:25:01 u CRON[5880]: pam_unix(cron:session): session closed for user root
+Jul 17 20:35:01 u CRON[10559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:35:01 u CRON[10559]: pam_unix(cron:session): session closed for user root
+Jul 17 20:45:01 u CRON[15196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:45:01 u CRON[15196]: pam_unix(cron:session): session closed for user root
+Jul 17 20:55:01 u CRON[19981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 20:55:01 u CRON[19981]: pam_unix(cron:session): session closed for user root
+Jul 17 21:00:01 u CRON[22492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:00:02 u CRON[22492]: pam_unix(cron:session): session closed for user root
+Jul 17 21:05:01 u CRON[24782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:05:01 u CRON[24782]: pam_unix(cron:session): session closed for user root
+Jul 17 21:15:01 u CRON[29216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:15:01 u CRON[29216]: pam_unix(cron:session): session closed for user root
+Jul 17 21:17:01 u CRON[30135]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:17:01 u CRON[30135]: pam_unix(cron:session): session closed for user root
+Jul 17 21:25:01 u CRON[1639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:25:02 u CRON[1639]: pam_unix(cron:session): session closed for user root
+Jul 17 21:34:52 u polkitd(authority=local): Registered Authentication Agent for unix-process:5952:3790169 (system bus name :1.1242 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jul 17 21:34:59 u polkitd(authority=local): Operator of unix-process:5952:3790169 successfully authenticated as unix-user:shellshock to gain TEMPORARY authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.1243 [systemctl restart alsa-utils.service] (owned by unix-user:shellshock)
+Jul 17 21:34:59 u polkitd(authority=local): Unregistered Authentication Agent for unix-process:5952:3790169 (system bus name :1.1242, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jul 17 21:35:01 u CRON[6113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:35:01 u CRON[6113]: pam_unix(cron:session): session closed for user root
+Jul 17 21:38:40 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Videos ; USER=root ; COMMAND=/usr/bin/apt install gmplayer
+Jul 17 21:38:40 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 21:38:44 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 21:38:56 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Videos ; USER=root ; COMMAND=/usr/bin/apt install gmplayer
+Jul 17 21:38:56 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 21:38:58 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 21:39:05 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Videos ; USER=root ; COMMAND=/usr/bin/apt search gmplayer
+Jul 17 21:39:05 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 21:39:19 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 21:45:01 u CRON[11293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:45:01 u CRON[11293]: pam_unix(cron:session): session closed for user root
+Jul 17 21:48:01 u CRON[12781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:48:01 u CRON[12781]: pam_unix(cron:session): session closed for user root
+Jul 17 21:55:01 u CRON[16897]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 21:55:01 u CRON[16897]: pam_unix(cron:session): session closed for user root
+Jul 17 22:00:01 u CRON[19506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:00:01 u CRON[19506]: pam_unix(cron:session): session closed for user root
+Jul 17 22:05:01 u CRON[21774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:05:01 u CRON[21774]: pam_unix(cron:session): session closed for user root
+Jul 17 22:12:02 u sudo: shellshock : TTY=pts/9 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/bin/apt install pulseaudio-ctl
+Jul 17 22:12:02 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 22:12:05 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 22:15:01 u CRON[26408]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:15:01 u CRON[26408]: pam_unix(cron:session): session closed for user root
+Jul 17 22:17:01 u CRON[27355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:17:01 u CRON[27355]: pam_unix(cron:session): session closed for user root
+Jul 17 22:25:01 u CRON[31374]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:25:01 u CRON[31374]: pam_unix(cron:session): session closed for user root
+Jul 17 22:35:01 u CRON[3358]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:35:01 u CRON[3358]: pam_unix(cron:session): session closed for user root
+Jul 17 22:45:01 u CRON[7489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:45:01 u CRON[7489]: pam_unix(cron:session): session closed for user root
+Jul 17 22:55:02 u CRON[11664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 22:55:02 u CRON[11664]: pam_unix(cron:session): session closed for user root
+Jul 17 23:00:01 u CRON[13695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:00:01 u CRON[13695]: pam_unix(cron:session): session closed for user root
+Jul 17 23:05:01 u CRON[15785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:05:01 u CRON[15785]: pam_unix(cron:session): session closed for user root
+Jul 17 23:09:35 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 17 23:09:35 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 17 23:09:36 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 23:10:07 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 23:10:09 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 23:10:09 u sshd[962]: Server listening on :: port 22.
+Jul 17 23:10:12 u sshd[962]: Received SIGHUP; restarting.
+Jul 17 23:10:14 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 17 23:10:14 u sshd[962]: Server listening on :: port 22.
+Jul 17 23:15:01 u CRON[20541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:15:01 u CRON[20541]: pam_unix(cron:session): session closed for user root
+Jul 17 23:17:01 u CRON[21405]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:17:01 u CRON[21405]: pam_unix(cron:session): session closed for user root
+Jul 17 23:25:01 u CRON[24797]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:25:01 u CRON[24797]: pam_unix(cron:session): session closed for user root
+Jul 17 23:35:01 u CRON[29048]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:35:01 u CRON[29048]: pam_unix(cron:session): session closed for user root
+Jul 17 23:45:02 u CRON[859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:45:02 u CRON[859]: pam_unix(cron:session): session closed for user root
+Jul 17 23:55:01 u CRON[5250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:55:01 u CRON[5250]: pam_unix(cron:session): session closed for user root
+Jul 17 23:59:01 u CRON[6955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 23:59:01 u CRON[6955]: pam_unix(cron:session): session closed for user root
+Jul 18 00:00:01 u CRON[7558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:00:01 u CRON[7558]: pam_unix(cron:session): session closed for user root
+Jul 18 00:05:01 u CRON[9670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:05:01 u CRON[9670]: pam_unix(cron:session): session closed for user root
+Jul 18 00:15:01 u CRON[13799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:15:01 u CRON[13799]: pam_unix(cron:session): session closed for user root
+Jul 18 00:17:01 u CRON[14668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:17:01 u CRON[14668]: pam_unix(cron:session): session closed for user root
+Jul 18 00:25:01 u CRON[18066]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:25:01 u CRON[18066]: pam_unix(cron:session): session closed for user root
+Jul 18 00:35:01 u CRON[22687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:35:01 u CRON[22687]: pam_unix(cron:session): session closed for user root
+Jul 18 00:45:01 u CRON[29224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:45:01 u CRON[29224]: pam_unix(cron:session): session closed for user root
+Jul 18 00:55:01 u CRON[1186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 00:55:01 u CRON[1186]: pam_unix(cron:session): session closed for user root
+Jul 18 01:00:01 u CRON[3412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 01:00:02 u CRON[3412]: pam_unix(cron:session): session closed for user root
+Jul 18 01:05:01 u CRON[5559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 01:05:01 u CRON[5559]: pam_unix(cron:session): session closed for user root
+Jul 18 01:15:01 u CRON[10069]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 01:15:01 u CRON[10069]: pam_unix(cron:session): session closed for user root
+Jul 18 01:17:01 u CRON[11015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 01:17:01 u CRON[11015]: pam_unix(cron:session): session closed for user root
+Jul 18 01:25:01 u CRON[14685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 01:25:01 u CRON[14685]: pam_unix(cron:session): session closed for user root
+Jul 18 01:34:21 u systemd-logind[814]: Lid closed.
+Jul 18 01:34:21 u systemd-logind[814]: Suspending...
+Jul 18 09:06:45 u systemd-logind[814]: Lid opened.
+Jul 18 09:06:49 u systemd-logind[814]: Operation 'sleep' finished.
+Jul 18 09:06:54 u sshd[962]: Received SIGHUP; restarting.
+Jul 18 09:06:55 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 18 09:06:55 u sshd[962]: Server listening on :: port 22.
+Jul 18 09:06:56 u sshd[962]: Received SIGHUP; restarting.
+Jul 18 09:06:57 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 18 09:06:57 u sshd[962]: Server listening on :: port 22.
+Jul 18 09:15:02 u CRON[23500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 09:15:02 u CRON[23500]: pam_unix(cron:session): session closed for user root
+Jul 18 09:17:01 u CRON[24457]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 09:17:01 u CRON[24457]: pam_unix(cron:session): session closed for user root
+Jul 18 09:24:38 u systemd-logind[814]: Lid closed.
+Jul 18 09:24:38 u systemd-logind[814]: Suspending...
+Jul 18 20:31:26 u systemd-logind[814]: Lid opened.
+Jul 18 20:31:29 u systemd-logind[814]: Operation 'sleep' finished.
+Jul 18 20:35:01 u CRON[30080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 20:35:01 u CRON[30080]: pam_unix(cron:session): session closed for user root
+Jul 18 20:45:01 u CRON[2428]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 20:45:01 u CRON[2428]: pam_unix(cron:session): session closed for user root
+Jul 18 20:55:01 u CRON[7021]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 20:55:01 u CRON[7021]: pam_unix(cron:session): session closed for user root
+Jul 18 21:00:01 u CRON[9391]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:00:01 u CRON[9391]: pam_unix(cron:session): session closed for user root
+Jul 18 21:05:01 u CRON[11709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:05:01 u CRON[11709]: pam_unix(cron:session): session closed for user root
+Jul 18 21:11:41 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 18 21:11:41 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 21:11:42 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 21:11:56 u sshd[962]: Received SIGHUP; restarting.
+Jul 18 21:11:57 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 18 21:11:57 u sshd[962]: Server listening on :: port 22.
+Jul 18 21:11:58 u sshd[962]: Received SIGHUP; restarting.
+Jul 18 21:11:59 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 18 21:11:59 u sshd[962]: Server listening on :: port 22.
+Jul 18 21:15:01 u CRON[16779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:15:01 u CRON[16779]: pam_unix(cron:session): session closed for user root
+Jul 18 21:17:02 u CRON[17772]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:17:02 u CRON[17772]: pam_unix(cron:session): session closed for user root
+Jul 18 21:25:01 u CRON[21729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:25:01 u CRON[21729]: pam_unix(cron:session): session closed for user root
+Jul 18 21:35:01 u CRON[26608]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:35:01 u CRON[26608]: pam_unix(cron:session): session closed for user root
+Jul 18 21:45:01 u CRON[31383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:45:01 u CRON[31383]: pam_unix(cron:session): session closed for user root
+Jul 18 21:48:01 u CRON[329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:48:01 u CRON[329]: pam_unix(cron:session): session closed for user root
+Jul 18 21:55:01 u CRON[9120]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 21:55:01 u CRON[9120]: pam_unix(cron:session): session closed for user root
+Jul 18 21:55:20 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install mencoder
+Jul 18 21:55:20 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 21:56:01 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 21:56:37 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install ffmpeg
+Jul 18 21:56:37 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 21:56:59 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:00:01 u CRON[13082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:00:01 u CRON[13082]: pam_unix(cron:session): session closed for user root
+Jul 18 22:05:01 u CRON[16299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:05:01 u CRON[16299]: pam_unix(cron:session): session closed for user root
+Jul 18 22:15:02 u CRON[21250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:15:02 u CRON[21250]: pam_unix(cron:session): session closed for user root
+Jul 18 22:17:01 u CRON[22195]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:17:01 u CRON[22195]: pam_unix(cron:session): session closed for user root
+Jul 18 22:18:10 u sudo: shellshock : TTY=pts/6 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/sbin/nethogs
+Jul 18 22:18:10 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:25:01 u CRON[26239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:25:01 u CRON[26239]: pam_unix(cron:session): session closed for user root
+Jul 18 22:25:59 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:35:01 u CRON[31325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:35:01 u CRON[31325]: pam_unix(cron:session): session closed for user root
+Jul 18 22:37:52 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/chown root:root dark
+Jul 18 22:37:52 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:37:52 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:38:09 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/chmod 000 dark
+Jul 18 22:38:09 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:38:09 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:39:45 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install gimp
+Jul 18 22:39:45 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:41:55 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:45:01 u CRON[5186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:45:01 u CRON[5186]: pam_unix(cron:session): session closed for user root
+Jul 18 22:55:01 u CRON[10316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 22:55:01 u CRON[10316]: pam_unix(cron:session): session closed for user root
+Jul 18 22:55:16 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install arm
+Jul 18 22:55:16 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:55:17 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:55:29 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt search arm
+Jul 18 22:55:29 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:55:36 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:55:46 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt search arm
+Jul 18 22:55:46 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:55:52 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:56:18 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt search arm
+Jul 18 22:56:18 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:56:19 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 22:56:27 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install tor-arm
+Jul 18 22:56:27 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 22:56:57 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:00:01 u CRON[13525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:00:02 u CRON[13525]: pam_unix(cron:session): session closed for user root
+Jul 18 23:00:48 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/apt install tor
+Jul 18 23:00:48 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:00:51 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:03:06 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/systemctl status tor.service
+Jul 18 23:03:06 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:03:06 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:03:50 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/systemctl restart tor.service
+Jul 18 23:03:51 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:03:51 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:03:56 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/usr/bin/arm
+Jul 18 23:03:56 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:04:35 u sudo: shellshock : TTY=pts/10 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/nethogs
+Jul 18 23:04:35 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:05:01 u CRON[16694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:05:01 u CRON[16694]: pam_unix(cron:session): session closed for user root
+Jul 18 23:15:01 u CRON[21856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:15:01 u CRON[21856]: pam_unix(cron:session): session closed for user root
+Jul 18 23:17:01 u CRON[22871]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:17:01 u CRON[22871]: pam_unix(cron:session): session closed for user root
+Jul 18 23:24:35 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:25:01 u CRON[27104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:25:01 u CRON[27104]: pam_unix(cron:session): session closed for user root
+Jul 18 23:26:48 u sudo: shellshock : TTY=pts/10 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/local/bin/pip install stem
+Jul 18 23:26:48 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:27:21 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:28:02 u sudo: shellshock : TTY=pts/10 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/local/bin/pip install --upgrade pip
+Jul 18 23:28:02 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:28:24 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:35:01 u CRON[32467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:35:01 u CRON[32467]: pam_unix(cron:session): session closed for user root
+Jul 18 23:37:54 u sudo: shellshock : TTY=pts/17 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/iftop -i wlp2s0
+Jul 18 23:37:54 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:37:54 u sudo: shellshock : TTY=pts/16 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/nethogs
+Jul 18 23:37:54 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:39:52 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:40:13 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/systemctl stop tor.service
+Jul 18 23:40:13 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 18 23:40:13 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 18 23:45:01 u CRON[8878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:45:02 u CRON[8878]: pam_unix(cron:session): session closed for user root
+Jul 18 23:55:01 u CRON[18529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:55:01 u CRON[18529]: pam_unix(cron:session): session closed for user root
+Jul 18 23:59:01 u CRON[22393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 18 23:59:01 u CRON[22393]: pam_unix(cron:session): session closed for user root
+Jul 19 00:00:01 u CRON[23347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:00:01 u CRON[23347]: pam_unix(cron:session): session closed for user root
+Jul 19 00:05:01 u CRON[28220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:05:01 u CRON[28220]: pam_unix(cron:session): session closed for user root
+Jul 19 00:15:01 u CRON[5529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:15:01 u CRON[5529]: pam_unix(cron:session): session closed for user root
+Jul 19 00:17:01 u sudo: shellshock : TTY=pts/8 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/bash
+Jul 19 00:17:01 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 00:17:01 u CRON[7552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:17:01 u CRON[7552]: pam_unix(cron:session): session closed for user root
+Jul 19 00:25:01 u CRON[15487]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:25:01 u CRON[15487]: pam_unix(cron:session): session closed for user root
+Jul 19 00:35:01 u CRON[25113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:35:01 u CRON[25113]: pam_unix(cron:session): session closed for user root
+Jul 19 00:45:01 u CRON[2438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:45:01 u CRON[2438]: pam_unix(cron:session): session closed for user root
+Jul 19 00:55:01 u CRON[12228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 00:55:02 u CRON[12228]: pam_unix(cron:session): session closed for user root
+Jul 19 01:00:01 u CRON[17123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:00:01 u CRON[17123]: pam_unix(cron:session): session closed for user root
+Jul 19 01:05:01 u CRON[22002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:05:01 u CRON[22002]: pam_unix(cron:session): session closed for user root
+Jul 19 01:15:01 u CRON[31798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:15:01 u CRON[31798]: pam_unix(cron:session): session closed for user root
+Jul 19 01:17:01 u CRON[1434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:17:01 u CRON[1434]: pam_unix(cron:session): session closed for user root
+Jul 19 01:25:01 u CRON[9403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:25:01 u CRON[9403]: pam_unix(cron:session): session closed for user root
+Jul 19 01:35:01 u CRON[19109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 01:35:01 u CRON[19109]: pam_unix(cron:session): session closed for user root
+Jul 19 01:38:11 u systemd-logind[814]: Lid closed.
+Jul 19 01:38:11 u systemd-logind[814]: Suspending...
+Jul 19 07:55:54 u systemd-logind[814]: Lid opened.
+Jul 19 07:55:56 u systemd-logind[814]: Operation 'sleep' finished.
+Jul 19 07:56:43 u sudo: shellshock : TTY=pts/12 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 19 07:56:43 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 07:56:44 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 07:57:04 u sshd[962]: Received SIGHUP; restarting.
+Jul 19 07:57:05 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 19 07:57:05 u sshd[962]: Server listening on :: port 22.
+Jul 19 07:57:05 u sshd[962]: Received SIGHUP; restarting.
+Jul 19 07:57:06 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 19 07:57:06 u sshd[962]: Server listening on :: port 22.
+Jul 19 08:05:02 u CRON[32054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 08:05:02 u CRON[32054]: pam_unix(cron:session): session closed for user root
+Jul 19 08:15:01 u CRON[9800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 08:15:01 u CRON[9800]: pam_unix(cron:session): session closed for user root
+Jul 19 08:15:50 u systemd-logind[814]: Lid closed.
+Jul 19 08:15:50 u systemd-logind[814]: Suspending...
+Jul 19 20:22:28 u systemd-logind[814]: Lid opened.
+Jul 19 20:22:30 u systemd-logind[814]: Operation 'sleep' finished.
+Jul 19 20:22:57 u sudo: shellshock : TTY=pts/19 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 19 20:22:57 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 20:22:58 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 20:23:06 u sudo: shellshock : TTY=pts/19 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/sbin/service network-manager restart
+Jul 19 20:23:06 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 20:23:06 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 20:23:19 u sshd[962]: Received SIGHUP; restarting.
+Jul 19 20:23:20 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 19 20:23:20 u sshd[962]: Server listening on :: port 22.
+Jul 19 20:23:20 u sshd[962]: Received SIGHUP; restarting.
+Jul 19 20:23:21 u sshd[962]: Server listening on 0.0.0.0 port 22.
+Jul 19 20:23:21 u sshd[962]: Server listening on :: port 22.
+Jul 19 20:25:01 u CRON[13697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 20:25:01 u CRON[13697]: pam_unix(cron:session): session closed for user root
+Jul 19 20:35:01 u CRON[23427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 20:35:01 u CRON[23427]: pam_unix(cron:session): session closed for user root
+Jul 19 20:45:01 u CRON[730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 20:45:01 u CRON[730]: pam_unix(cron:session): session closed for user root
+Jul 19 20:55:01 u CRON[10790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 20:55:01 u CRON[10790]: pam_unix(cron:session): session closed for user root
+Jul 19 21:00:01 u CRON[15670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:00:02 u CRON[15670]: pam_unix(cron:session): session closed for user root
+Jul 19 21:05:01 u CRON[20454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:05:01 u CRON[20454]: pam_unix(cron:session): session closed for user root
+Jul 19 21:15:01 u CRON[29956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:15:01 u CRON[29956]: pam_unix(cron:session): session closed for user root
+Jul 19 21:17:01 u CRON[31875]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:17:01 u CRON[31875]: pam_unix(cron:session): session closed for user root
+Jul 19 21:25:01 u CRON[7402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:25:01 u CRON[7402]: pam_unix(cron:session): session closed for user root
+Jul 19 21:35:01 u CRON[17366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:35:01 u CRON[17366]: pam_unix(cron:session): session closed for user root
+Jul 19 21:37:53 u sudo: shellshock : TTY=pts/19 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/local/bin/pip install jedi
+Jul 19 21:37:53 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 21:38:14 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 21:45:01 u CRON[27076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:45:01 u CRON[27076]: pam_unix(cron:session): session closed for user root
+Jul 19 21:48:01 u CRON[29964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:48:01 u CRON[29964]: pam_unix(cron:session): session closed for user root
+Jul 19 21:55:01 u CRON[4393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 21:55:01 u CRON[4393]: pam_unix(cron:session): session closed for user root
+Jul 19 21:57:04 u sudo: shellshock : TTY=pts/19 ; PWD=/home/shellshock ; USER=root ; COMMAND=/usr/local/bin/pip install pyflakes pep8 pylint ipython
+Jul 19 21:57:04 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 21:57:14 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 22:00:01 u CRON[9247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:00:01 u CRON[9247]: pam_unix(cron:session): session closed for user root
+Jul 19 22:05:01 u CRON[14254]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:05:01 u CRON[14254]: pam_unix(cron:session): session closed for user root
+Jul 19 22:15:01 u CRON[24041]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:15:01 u CRON[24041]: pam_unix(cron:session): session closed for user root
+Jul 19 22:17:01 u CRON[25968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:17:01 u CRON[25968]: pam_unix(cron:session): session closed for user root
+Jul 19 22:25:01 u CRON[2685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:25:01 u CRON[2685]: pam_unix(cron:session): session closed for user root
+Jul 19 22:35:02 u CRON[12660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:35:02 u CRON[12660]: pam_unix(cron:session): session closed for user root
+Jul 19 22:45:01 u CRON[22333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:45:01 u CRON[22333]: pam_unix(cron:session): session closed for user root
+Jul 19 22:55:01 u CRON[32285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 22:55:01 u CRON[32285]: pam_unix(cron:session): session closed for user root
+Jul 19 23:00:01 u CRON[5794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:00:01 u CRON[5794]: pam_unix(cron:session): session closed for user root
+Jul 19 23:05:01 u CRON[10595]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:05:01 u CRON[10595]: pam_unix(cron:session): session closed for user root
+Jul 19 23:15:01 u CRON[21100]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:15:01 u CRON[21100]: pam_unix(cron:session): session closed for user root
+Jul 19 23:17:01 u CRON[22979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:17:01 u CRON[22979]: pam_unix(cron:session): session closed for user root
+Jul 19 23:17:54 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 23:25:01 u CRON[31883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:25:01 u CRON[31883]: pam_unix(cron:session): session closed for user root
+Jul 19 23:35:01 u CRON[10139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:35:01 u CRON[10139]: pam_unix(cron:session): session closed for user root
+Jul 19 23:40:07 u sudo: shellshock : TTY=pts/5 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/chmod 777 dark
+Jul 19 23:40:07 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 19 23:40:07 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 19 23:45:01 u CRON[20366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:45:01 u CRON[20366]: pam_unix(cron:session): session closed for user root
+Jul 19 23:55:01 u CRON[29794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:55:02 u CRON[29794]: pam_unix(cron:session): session closed for user root
+Jul 19 23:59:01 u CRON[1129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 19 23:59:01 u CRON[1129]: pam_unix(cron:session): session closed for user root
+Jul 20 00:00:01 u CRON[2146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:00:01 u CRON[2146]: pam_unix(cron:session): session closed for user root
+Jul 20 00:05:01 u CRON[6964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:05:01 u CRON[6964]: pam_unix(cron:session): session closed for user root
+Jul 20 00:13:41 u sudo: shellshock : TTY=pts/5 ; PWD=/home/shellshock/Pictures/themes/xfce ; USER=root ; COMMAND=/bin/chmod 000 dark
+Jul 20 00:13:41 u sudo: pam_unix(sudo:session): session opened for user root by shellshock(uid=0)
+Jul 20 00:13:41 u sudo: pam_unix(sudo:session): session closed for user root
+Jul 20 00:15:01 u CRON[16112]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:15:01 u CRON[16112]: pam_unix(cron:session): session closed for user root
+Jul 20 00:17:01 u CRON[18728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:17:01 u CRON[18728]: pam_unix(cron:session): session closed for user root
+Jul 20 00:25:01 u CRON[26658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:25:01 u CRON[26658]: pam_unix(cron:session): session closed for user root
+Jul 20 00:35:01 u CRON[3842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:35:01 u CRON[3842]: pam_unix(cron:session): session closed for user root
+Jul 20 00:45:01 u CRON[13193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 20 00:45:01 u CRON[13193]: pam_unix(cron:session): session closed for user root
