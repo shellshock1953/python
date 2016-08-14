@@ -43,32 +43,39 @@ def show_boards(player_board, bot_board, board_size):
 
 
 def ship_placement_check(board, x, y, is_horisontal, ship_len):
-    no_errors = False
-    while no_errors == False:
-        # cannot be out of the board
-        if x + ship_len > 9 or y + ship_len > 9:
-            print("Out of the board")
-            no_errors = False; continue
-        # cannot cross other ship
-        # cannot be closer than 1 sell to other ship
-        elif x > 1 and x < 9 and y > 1 and y < 9:
-            for diapazon in range(-1,2):
-                for ship_sell in range(ship_len):
-                    if is_horisontal == 1:
-                        if board[x + ship_sell + diapazon][y] == "=": no_errors = False; continue
-                    if is_horisontal == 0:
-                        if board[x][y + ship_sell + diapazon] == "=": no_errors = False; continue
-        else: no_errors = True
-    return True
+    print x,y
+    # cannot be out of the board
+    if x + ship_len > 9 or y + ship_len > 9:
+        print("Out of the board")
+        return False
+    # cannot cross other ship
+    # cannot be closer than 1 sell to other ship
+    elif x > 1 and x < 9 and y > 1 and y < 9:
+        for diapazon in range(-1,2):
+            for ship_sell in range(ship_len):
+                if is_horisontal == 1:
+                    print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
+                    if board[x + ship_sell + diapazon][y] == "=":
+                        print "WRONG HOR"
+                        return False
+                if is_horisontal == 0:
+                    print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
+                    if board[x][y + ship_sell + diapazon] == "=":
+                        print "WRONG VER"
+                        return False
+            print x,y
+    else:
+        print ("DONE hor=%s x=%s y=%s len=%s") % (is_horisontal,x,y,ship_len)
+        return True
 
-def ships_placement(board,ship):
-    ship_len = 4
+def ship_placement(board,ship_len):
+    ship_len = ship_len
     no_errors = False
     while no_errors == False:
         x = random.randint(0,9)
         y = random.randint(0,9)
         is_horisontal = random.randint(0,1)
-        print ("x=%s y=%s len=%s is_hor=%s") % (x,y,ship_len,is_horisontal)
+        # print ("x=%s y=%s len=%s is_hor=%s") % (x,y,ship_len,is_horisontal)
         no_errors = ship_placement_check(board, x, y, is_horisontal, ship_len)
     for sell in range(ship_len):
         if is_horisontal == 1:
@@ -79,14 +86,17 @@ def ships_placement(board,ship):
 
 def ships(board):
     ships = {
-        4 : ([0,0,0]),
+        4 : ([0,0,0],),
         3 : ([0,0,0],[0,0,0]),
         2 : ([0,0,0],[0,0,0],[0,0,0]),
         1 : ([1,1,1],[0,0,0],[0,0,0],[0,0,0])
     }
     for ship_type in range(1,5):
-        for ship in range(1,5-ship_type):
-            print(ships[ship_type][ship])
+        for ship in range(0,5-ship_type):
+            board, ships[ship_type][ship][0], \
+            ships[ship_type][ship][1], \
+            ships[ship_type][ship][2] = ship_placement(board,ship_type)
+    print ships
 
 
 # FINAL ACT. The Game.
@@ -96,3 +106,4 @@ if __name__ == "__main__":
     bot_board = generate_board(board_size)
     show_boards(player_board, bot_board, board_size)
     ships(player_board)
+    show_boards(player_board, bot_board, board_size)
