@@ -58,12 +58,16 @@ def ship_placement_check(board, x, y, is_horisontal, ship_len):
                     if board[x + ship_sell + diapazon][y] == "=":
                         print "WRONG HOR"
                         return False
-                if is_horisontal == 0:
+                    else:
+                        print "ok in HOR"
+                elif is_horisontal == 0:
                     print ("hor=%s x=%s y=%s len=%s dia=%s sell=%s") % (is_horisontal,x,y,ship_len,diapazon,ship_sell)
                     if board[x][y + ship_sell + diapazon] == "=":
                         print "WRONG VER"
                         return False
-            print x,y
+                    else:
+                        print "ok in VER"
+                        continue
     else:
         print ("DONE hor=%s x=%s y=%s len=%s") % (is_horisontal,x,y,ship_len)
         return True
@@ -82,6 +86,7 @@ def ship_placement(board,ship_len):
             board[x + sell][y] = "="
         elif is_horisontal == 0:
             board[x][y + sell] = "="
+    print "Ship placed",x,y
     return board,x,y,ship_len
 
 def ships(board):
