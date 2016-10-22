@@ -42,53 +42,17 @@ def show_boards(player_board, bot_board, board_size):
         letter += 1
 
 
-def ship_placement_check(board, x, y, is_horisontal, ship_len):
-    print(x,y)
-    # cannot be out of the board
-    if x + ship_len > 9 or y + ship_len > 9:
-        print("Out of the board")
-        return False
-    # cannot cross other ship
-    # cannot be closer than 1 sell to other ship
-    elif x > 1 and x < 9 and y > 1 and y < 9:
-        for diapazon in range(-1,2):
-            for ship_sell in range(ship_len):
-                if is_horisontal == 1:
-                    print ("hor=%s x,y=%s len=%s dia=%s sell=%s") % (is_horisontal,coordinated_to_alpha(x,y),ship_len,diapazon,ship_sell)
-                    if board[x + ship_sell + diapazon][y] == "=":
-                        print("WRONG HOR")
-                        return False
-                    else:
-                        print("ok in HOR")
-                elif is_horisontal == 0:
-                    print ("hor=%s x,y=%s len=%s dia=%s sell=%s") % (is_horisontal,coordinated_to_alpha(x,y),ship_len,diapazon,ship_sell)
-                    if board[x][y + ship_sell + diapazon] == "=":
-                        print("WRONG VER")
-                        return False
-                    else:
-                        print("ok in VER")
-                        continue
-    else:
-        print ("DONE hor=%s x=%s y=%s len=%s") % (is_horisontal,x,y,ship_len)
-        return True
+def manual_ship_placement(board,ship_len):
+    print ("Select leng: 4")
+    leng = 4
+    print ("Use H J K L to move")
+    print ("Use V to switch to vertical")
+    print ("User E to select")
+    x, y = selector(player_board, bot_board)
+    print x,y
 
-def ship_placement(board,ship_len):
-    ship_len = ship_len
-    no_errors = False
-    while no_errors == False:
-        x = random.randint(0,9)
-        y = random.randint(0,9)
-        is_horisontal = random.randint(0,1)
-        # print ("x=%s y=%s len=%s is_hor=%s") % (x,y,ship_len,is_horisontal)
-        no_errors = ship_placement_check(board, x, y, is_horisontal, ship_len)
-    for sell in range(ship_len):
-        if is_horisontal == 1:
-            board[x + sell][y] = "="
-        elif is_horisontal == 0:
-            board[x][y + sell] = "="
-    print("Ship placed",x,y)
-    return board,x,y,ship_len
 
+    
 def ships(board):
     ships = {
         4 : ([0,0,0],),
@@ -107,17 +71,17 @@ def selector(board_orig,bot_board):
     import copy
     x = 4
     y = 4
-    board = copy.deepcopy(bot_board)
+    board = copy.deepcopy(board_orig)
     board[x-1][y-1] = "+"
     board[x-1][y+1] = "+"
     board[x+1][y-1] = "+"
     board[x+1][y+1] = "+"
     while True:
-        board = copy.deepcopy(bot_board)
+        board = copy.deepcopy(board_orig)
         arrow = raw_input()
         if arrow == "h": y = y - 1
-        elif arrow == "j": x = x - 1
-        elif arrow == "k": x = x + 1
+        elif arrow == "j": x = x + 1
+        elif arrow == "k": x = x - 1
         elif arrow == "l": y = y + 1
         elif arrow == "e":
             print coordinated_to_alpha(x,y)
@@ -149,6 +113,5 @@ if __name__ == "__main__":
     player_board = generate_board(board_size)
     bot_board = generate_board(board_size)
     show_boards(player_board, bot_board, board_size)
-    ships(player_board)
-    selector(player_board,bot_board)
-    show_boards(player_board, bot_board, board_size)
+    manual_ship_placement(player_board,4)
+    
