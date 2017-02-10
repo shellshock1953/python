@@ -7,14 +7,16 @@ class Board():
         for sell in range(10):
            self.board.append(["."] * 10)
 
-    def show(self, username):
+    def show(self, username, board=None):
+        if board == None:
+            board = self.board
         print "     USER: %s" % username
         alphabet = string.uppercase[:self.size]
         numbers = ' '.join(str(x) for x in range(1,11))
         print "     %s" % numbers
         letter = 0
         for row in range(self.size):
-            board_row = " ".join(self.board[row])
+            board_row = " ".join(board[row])
             print "   %s %s" % (alphabet[letter],board_row)
             letter += 1
 
@@ -28,28 +30,85 @@ class Board():
         return cur_x, cur_y
 
     def draw_ships(self, navy):
-        for ship in navy.values():
-            x = ship.x
-            y = ship.y
-            leng = ship.leng
-            layout = ship.layout
-            for sell in range(leng):
-                if ship.layout == 'vertical':
-                    self.board[x][y + sell] = '='
-                if ship.layout == 'horisontal':
-                    self.board[x + sell][y] = '='
+        for sell in range(ship.leng):
+            if ship.layout == 'vertical':
+                self.board[x][y + sell] = '='
+            if ship.layout == 'horisontal':
+                self.board[x + sell][y] = '='
             
-    def place_ships(self, navy):
+    def selector(self, board, ship=None):
+        def movement(x, y):
+            exit = False
+            arrow = raw_input("Move with h/j/k/l: ")
+            if arrow == 'h':
+                y = y - 1
+            elif arrow == 'j':
+                x = x + 1
+            elif arrow == 'k':
+                x = x - 1
+            elif arrow == 'l':
+                y = y + 1
+            elif arrow == 'v':
+                ship.layout = ship.change_layout()
+            elif arrow == 'e':
+                exit = True
+            else:
+                exit = False
+            return x, y, exit
 
-class Ship():
-    body = '='
-    damage = 'X'
+        def show_crosses(x, y):
+            for loop in range(4):
+                for X_x, X_y in [(-1,-1),(1,1),(-1,1),(1,-1)]:
+                    try:
+                        board_temp[x + X_x][y + X_y] = '+'
+                    except IndexError:
+                        pass
 
-    def __init__(self, x, y, leng, layout):
-        self.x = x
-        self.y = y
+        def show_ship(x, y):
+            for sell in range(ship.leng):
+                if ship.layout == 'vertical':
+                    board_temp[x][y+sell] = ship.body
+                else:
+                    board_temp[x+sell][y] = ship.body
+
+        x = 5
+        y = 5
+        exit = False
+        while exit == False:
+            try:
+                if x > 9 or y > 9 or x <= 0 or y <= 0:
+                    raise IndexError
+                temp_x = x
+                temp_y = y
+                import copy
+                board_temp = copy.deepcopy(board)
+
+                x, y, exit = movement(x,y)
+                show_crosses(x, y)
+
+                if ship:
+                    show_ship(x, y)
+
+                self.show('TEMP', board_temp)
+            except IndexError:
+                print('Not possible position')
+                x = temp_x
+                y = temp_y
+                continue
+        return x, y
+
+
+class Ship(object):
+
+    def __init__(self, leng):
         self.leng = leng
-        self.layout = layout
+
+        # defaults
+        self.body = '='
+        self.damage = 'X'
+        self.x = 5
+        self.y = 5
+        self.layout = 'horisontal' # 'vertical'
 
         self.ship = []
         for sell in range(self.leng):
@@ -68,6 +127,12 @@ class Ship():
             state =  "Health - [ DEAD ]"
         return state
 
+    def change_layout(self):
+        if self.layout == 'horizontal':
+            return 'vertical'
+        else:
+            return 'horizontal'
+
         
 class Player():
     def __init__(self):
@@ -76,27 +141,36 @@ class Player():
 
         self.board = Board()
 
-    navy = {
-        '4sell_a' : Ship(1,1,4,'vertical'),
-        '2sell_a' : Ship(3,1,2,'horisontal'),
-        # '2sell_b' : Ship(5,1,2,'horisontal'),
-    }
+        self.navy = [
+         Ship(4),
+         Ship(3),
+         Ship(2),
+         Ship(1)
+        ]
 
-    def draw_ships(self):
-        self.board.draw_ships(self.navy)
+
+    def place_ships(self):
+        for ship in self.navy:
+            ship.x, ship.y = self.board.selector(self.board.board, ship)
+            self.board.draw_ships()
 
 
 class Game():
     def __init__(self):
         self.player1 = Player()
         self.player2 = Player()
-        self.player1.draw_ships()
 
     def show_gamefield(self):
         self.player1.board.show(self.player1.name)
         self.player2.board.show(self.player2.name)
 
+    def place_ships(self):
+        print "Place your ships"
+        self.player1.place_ships()
+        self.player2.place_ships()
+
 
 if __name__ == '__main__':
     game = Game()
     game.show_gamefield()
+    game.place_ships()
