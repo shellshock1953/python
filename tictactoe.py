@@ -84,6 +84,8 @@ class Game():
             
 
 if __name__ == '__main__':
-    game = Game('shellshock','bot')
+    player1 = raw_input("\tPlayer X -- Enter your name: ")
+    player2 = raw_input("\tPlayer 0 -- Enter your name: ")
+    game = Game(str(player1),str(player2))
     game.gamefield.show()
     game.turn()

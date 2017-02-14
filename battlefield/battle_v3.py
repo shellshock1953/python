@@ -20,22 +20,37 @@ class Board():
             print "   %s %s" % (alphabet[letter],board_row)
             letter += 1
 
-    def layout(self, ship, x, y):
+    def layout(self, ship, sell):
         if ship.layout == 'horizontal':
-            cur_x = x
-            cur_y = y + 1
+            x = 0
+            y = sell + 1
         if ship.layout == 'vertical':
-            cur_x = x + 1
-            cur_y = y
-        return cur_x, cur_y
+            x = sell + 1
+            y = 0
+        return x, y
 
-    def draw_ships(self, navy):
+    def refresh(self, navy):
+        for ship in navy:
+            if ship.exists:
+                for sell in range(ship.leng):
+                    if ship.layout == 'vertical':
+                        self.board[ship.x][ship.y + sell] = '='
+                    if ship.layout == 'horisontal':
+                        self.board[ship.x + sell][ship.y] = '='
+
+    def halo(self, ship):
         for sell in range(ship.leng):
-            if ship.layout == 'vertical':
-                self.board[x][y + sell] = '='
-            if ship.layout == 'horisontal':
-                self.board[x + sell][y] = '='
-            
+            for halo_x in (-1,0,1):
+                for halo_y in (-1,0,1):
+                    layout_x, layout_y = self.layout(ship,sell)
+                    print ship.x, halo_x, layout_x
+                    if self.board[ship.x + halo_x + layout_x]\
+                            [ship.y + halo_y + layout_y] == '=':
+                        continue
+                    else:
+                        self.board[ship.x + halo_x + layout_x]\
+                            [ship.y + halo_y + layout_y] = 'o'
+
     def selector(self, board, ship=None):
         def movement(x, y):
             exit = False
@@ -74,7 +89,7 @@ class Board():
         x = 5
         y = 5
         exit = False
-        while exit == False:
+        while not exit:
             try:
                 if x > 9 or y > 9 or x <= 0 or y <= 0:
                     raise IndexError
@@ -95,6 +110,8 @@ class Board():
                 x = temp_x
                 y = temp_y
                 continue
+
+        ship.exists = True
         return x, y
 
 
@@ -102,22 +119,23 @@ class Ship(object):
 
     def __init__(self, leng):
         self.leng = leng
+        self.exists = False
 
         # defaults
         self.body = '='
         self.damage = 'X'
         self.x = 5
         self.y = 5
-        self.layout = 'horisontal' # 'vertical'
+        self.layout = 'horizontal' # 'vertical'
 
         self.ship = []
         for sell in range(self.leng):
             self.ship.append(self.body)
 
     def hit(self, sell):
-        self.ship[sell] = self.damage 
+        self.ship[sell] = self.damage
         print self.ship
-        
+
     def health(self):
         if self.damage not in self.ship:
             state = "Health - [ OK ]"
@@ -133,7 +151,7 @@ class Ship(object):
         else:
             return 'horizontal'
 
-        
+
 class Player():
     def __init__(self):
         self.name = raw_input("Enter name: ")
@@ -152,7 +170,8 @@ class Player():
     def place_ships(self):
         for ship in self.navy:
             ship.x, ship.y = self.board.selector(self.board.board, ship)
-            self.board.draw_ships()
+            print ship.layout
+            self.board.halo(ship)
 
 
 class Game():
