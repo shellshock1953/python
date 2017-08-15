@@ -1,0 +1,201 @@
+{ "say": {
+    "past": "said",
+    "participles": [ "said" ],
+    "frequency": "10" },
+  "make": {
+    "past": "made",
+    "participles": [ "made" ],
+    "frequency": "10" },
+  "go": {
+    "past": "went",
+    "participles": [ "gone" ],
+    "frequency": "10" },
+  "take": {
+    "past": "took",
+    "participles": [ "taken" ],
+    "frequency": "10" },
+  "come": {
+    "past": "came",
+    "participles": [ "come" ],
+    "frequency": "10" },
+  "see": {
+    "past": "saw",
+    "participles": [ "seen" ],
+    "frequency": "10" },
+  "know": {
+    "past": "knew",
+    "participles": [ "known" ],
+    "frequency": "10" },
+  "get": {
+    "past": "got",
+    "participles": [ "got", "gotten" ],
+    "frequency": "10" },
+  "give": {
+    "past": "gave",
+    "participles": [ "given" ],
+    "frequency": "10" },
+  "find": {
+    "past": "found",
+    "participles": [ "found" ],
+    "frequency": "10" },
+  "think": {
+    "past": "thought",
+    "participles": [ "thought" ],
+    "frequency": "10" },
+  "tell": {
+    "past": "told",
+    "participles": [ "told" ],
+    "frequency": "10" },
+  "become": {
+    "past": "became",
+    "participles": [ "become" ],
+    "frequency": "10" },
+  "show": {
+    "past": "showed",
+    "participles": [ "shown" ],
+    "frequency": "10" },
+  "leave": {
+    "past": "left",
+    "participles": [ "left" ],
+    "frequency": "10" },
+  "feel": {
+    "past": "felt",
+    "participles": [ "felt" ],
+    "frequency": "10" },
+  "put": {
+    "past": "put",
+    "participles": [ "put" ],
+    "frequency": "10" },
+  "bring": {
+    "past": "brought",
+    "participles": [ "brought" ],
+    "frequency": "10" },
+  "begin": {
+    "past": "began",
+    "participles": [ "begun" ],
+    "frequency": "10" },
+  "keep": {
+    "past": "kept",
+    "participles": [ "kept" ],
+    "frequency": "10" },
+  "hold": {
+    "past": "held",
+    "participles": [ "held" ],
+    "frequency": "10" },
+  "write": {
+    "past": "wrote",
+    "participles": [ "written" ],
+    "frequency": "10" },
+  "stand": {
+    "past": "stood",
+    "participles": [ "stood" ],
+    "frequency": "10" },
+  "hear": {
+    "past": "heard",
+    "participles": [ "heard" ],
+    "frequency": "10" },
+  "let": {
+    "past": "let",
+    "participles": [ "let" ],
+    "frequency": "10" },
+  "mean": {
+    "past": "meant",
+    "participles": [ "meant" ],
+    "frequency": "10" },
+  "set": {
+    "past": "set",
+    "participles": [ "set" ],
+    "frequency": "10" },
+  "meet": {
+    "past": "met",
+    "participles": [ "met" ],
+    "frequency": "10" },
+  "run": {
+    "past": "ran",
+    "participles": [ "run" ],
+    "frequency": "10" },
+  "pay": {
+    "past": "paid",
+    "participles": [ "paid" ],
+    "frequency": "10" },
+  "sit": {
+    "past": "sat",
+    "participles": [ "sat" ],
+    "frequency": "10" },
+  "speak": {
+    "past": "spoke",
+    "participles": [ "spoken" ],
+    "frequency": "10" },
+  "lie": {
+    "past": "lay",
+    "participles": [ "lain" ],
+    "frequency": "10" },
+  "lead": {
+    "past": "led",
+    "participles": [ "led" ],
+    "frequency": "10" },
+  "read": {
+    "past": "read",
+    "participles": [ "read" ],
+    "frequency": "10" },
+  "grow": {
+    "past": "grew",
+    "participles": [ "grown" ],
+    "frequency": "10" },
+  "lose": {
+    "past": "lost",
+    "participles": [ "lost" ],
+    "frequency": "10" },
+  "fall": {
+    "past": "fell",
+    "participles": [ "fallen" ],
+    "frequency": "10" },
+  "send": {
+    "past": "sent",
+    "participles": [ "sent" ],
+    "frequency": "10" },
+  "build": {
+    "past": "built",
+    "participles": [ "built" ],
+    "frequency": "10" },
+  "understand": {
+    "past": "understood",
+    "participles": [ "understood" ],
+    "frequency": "10" },
+  "draw": {
+    "past": "drew",
+    "participles": [ "drawn" ],
+    "frequency": "10" },
+  "break": {
+    "past": "broke",
+    "participles": [ "broken" ],
+    "frequency": "10" },
+  "spend": {
+    "past": "spent",
+    "participles": [ "spent" ],
+    "frequency": "10" },
+  "cut": {
+    "past": "cut",
+    "participles": [ "cut" ],
+    "frequency": "10" },
+  "rise": {
+    "past": "rose",
+    "participles": [ "risen" ],
+    "frequency": "10" },
+  "drive": {
+    "past": "drove",
+    "participles": [ "driven" ],
+    "frequency": "10" },
+  "buy": {
+    "past": "bought",
+    "participles": [ "bought" ],
+    "frequency": "10" },
+  "wear": {
+    "past": "wore",
+    "participles": [ "worn" ],
+    "frequency": "10" },
+  "choose": {
+    "past": "chose",
+    "participles": [ "chosen" ],
+    "frequency": "10" }
+}
