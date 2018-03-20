@@ -13,7 +13,7 @@ pipeline {
     }
     stage("Execute") {
       steps {
-        sh "ls -l"
+        sh "date"
       }
     }
   }
