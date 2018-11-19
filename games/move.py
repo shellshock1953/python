@@ -28,8 +28,8 @@ class Board():
         self.game_over = [num_list[i::3] for i in range(3)]
 
     def show(self):
-        # os.system('clear')
-        print('\n' * 100)
+        os.system('clear')
+        # print('\n' * 100)
         print('+ -  -  - +')
         for row in range(3):
             str_row = "  ".join(self.board[row])
